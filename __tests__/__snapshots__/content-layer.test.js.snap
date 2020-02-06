@@ -1,0 +1,3301 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Content layer should matchSnapshot 1`] = `
+Object {
+  "conference": Object {
+    "city": "Amsterdam",
+    "codeOfConductIntro": "
+",
+    "codeOfConductMain": "
+",
+    "facebookUrl": "https://www.facebook.com/thejsnation",
+    "id": "ck0zi9xnrpi2z0b54q0n7clnr",
+    "mediumUrl": "https://medium.com/@amsterdamjs",
+    "slackUrl": "https://jsnation.com/slack",
+    "status": "PUBLISHED",
+    "title": "Amsterdam_JSNation",
+    "twitterUrl": "https://twitter.com/thejsnation",
+    "url": "https://jsnation.com",
+    "youtubeUrl": "https://www.youtube.com/JSNation",
+  },
+  "conferenceSettings": Object {
+    "speakerAvatar": Object {
+      "dimensions": Object {
+        "avatarHeight": 500,
+        "avatarWidth": 500,
+      },
+    },
+    "tagColors": Object {
+      "Ecosystem": Object {
+        "color": "#ae4f01",
+        "tagBG": "#fff40d",
+      },
+      "GraphQL": Object {
+        "color": "#400042",
+        "tagBG": "#f200fa",
+      },
+      "Language": Object {
+        "color": "#ae4f01",
+        "tagBG": "#fff40d",
+      },
+      "NestJS": Object {
+        "color": "#fff",
+        "tagBG": "#ea2845",
+      },
+      "NodeJS": Object {
+        "color": "#fff",
+        "tagBG": "#7AB464",
+      },
+      "PWA": Object {
+        "color": "#fff",
+        "tagBG": "#d400fa",
+      },
+      "Performance": Object {
+        "color": "#00410a",
+        "tagBG": "#00ed24",
+      },
+      "Svelte": Object {
+        "color": "#fff",
+        "tagBG": "#ff5200",
+      },
+      "TypeScript": Object {
+        "color": "#030303",
+        "tagBG": "#61DAFB",
+      },
+      "VueJS": Object {
+        "color": "#fff",
+        "tagBG": "#4EBA87",
+      },
+      "WebGL": Object {
+        "color": "#ffffff",
+        "tagBG": "#ff7302",
+      },
+      "default": Object {
+        "color": "white",
+        "tagBG": "black",
+      },
+    },
+  },
+  "diversity": Object {
+    "applyButtonLink": "https://docs.google.com/forms/d/e/1FAIpQLSef0NNPgfvkruA2agO3xd7Bj4kHEEISTOr7s8ClrFsg0KmpEA/viewform",
+    "applyButtonText": "Apply for diversity scholarship",
+    "description": "<p>When we established our JS meetup 9 years ago, we never imagined we would welcome up to 1400 attendees at our events and organize 4 meetups and multiple spin-offs in Europe. Our secret? We welcome people from all walks of life in our community, and we are a proud partner of initiatives like Unicorns in Tech, the global tech network for LGBT professionals and straight allies.</p>
+<p>We know that supporting diversity inside and outside IT must not end at mere statements, which is why are now developing diversity scholarship programs that will be announced in the coming weeks.</p>
+",
+    "id": "ck6838gso0yfu0b20shgow8db",
+    "maxTickets": 50,
+    "progress": 40,
+    "showApplyButton": true,
+    "showSponsorButton": true,
+    "sponsorButtonLink": "hi@jsnation.com",
+    "sponsorButtonText": "Sponsor diversity tickets",
+    "sponsoredTickets": 20,
+    "sponsors": Array [
+      Object {
+        "avatar": "https://media.graphcms.com/2VqkoLHdQo2enx7rvXCY",
+        "title": "Amazon Web Service",
+      },
+    ],
+    "status": "PUBLISHED",
+    "title": "Giving back to community",
+  },
+  "extendeds": Object {
+    "community": Array [
+      Object {
+        "description": "<p>We’re looking for developers with side projects, who love to check out codepen.io or open-source github repo’s, design systems and style guides. People who understand that shipping fast doesn’t mean you ship bad quality.</p>
+",
+        "image": Object {
+          "url": "https://media.graphcms.com/DMLCRZORlCgZG6WpUEO2",
+        },
+        "key": "community",
+        "location": "<p>Sint Annendwarsstraat 6, </p>
+<p>1012 HC Amsterdam</p>
+",
+        "locationLink": "/",
+        "registerLink": null,
+        "slackChannelName": null,
+        "subtitle": null,
+        "title": "<p>TonTon Club Centrum 20:00</p>
+",
+      },
+    ],
+    "dates": Array [
+      Object {
+        "description": "<p>Nation\`s top educators from all over the globe</p>
+",
+        "image": null,
+        "key": "dates",
+        "location": "<p>Workshops</p>
+",
+        "locationLink": null,
+        "registerLink": "/workshops",
+        "slackChannelName": null,
+        "subtitle": "<p>3-4th</p>
+",
+        "title": "<p>Wednesday-Thursday</p>
+<p>June</p>
+",
+      },
+      Object {
+        "description": "<p>General and NodeJS halls, JS powered art exhibition and an afterparty</p>
+",
+        "image": Object {
+          "url": "https://media.graphcms.com/Ntb5lFQIT1uwJfwKNNRw",
+        },
+        "key": "dates",
+        "location": "<p>Conference day</p>
+",
+        "locationLink": null,
+        "registerLink": "#speakers",
+        "slackChannelName": null,
+        "subtitle": "<p>5th</p>
+",
+        "title": "<p>Friday</p>
+<p>June</p>
+",
+      },
+      Object {
+        "description": "<p>Museums visit in the morning and JS hangout in the park since lunch</p>
+",
+        "image": Object {
+          "url": "https://media.graphcms.com/Ntb5lFQIT1uwJfwKNNRw",
+        },
+        "key": "dates",
+        "location": "<p>Hangout day</p>
+",
+        "locationLink": null,
+        "registerLink": "#hangout-day",
+        "slackChannelName": null,
+        "subtitle": "<p>6th</p>
+",
+        "title": "<p>Saturday</p>
+<p>June</p>
+",
+      },
+    ],
+    "location__slide": Array [
+      Object {
+        "description": "<p>JSNation conference will gather 1000+ JS pros at Kromhouthal, a former ship engines factory which now becomes the place for gathering the top JavaScript engines authors and engineers.</p>
+",
+        "image": Object {
+          "url": "https://media.graphcms.com/ltaBUktcSVOBXFJplkgn",
+        },
+        "key": "location__slide",
+        "location": "<p>Gedempt Hamerkanaal 231</p>
+<p>1021 KP Amsterdam <a href=\\"https://goo.gl/maps/Ccb2dHzvUe1SocKd6\\">View on map</a></p>
+",
+        "locationLink": "data-center-lat=52.384183 data-center-lng=4.914727",
+        "registerLink": "data-lat=52.3831943 data-lng=4.9204799",
+        "slackChannelName": null,
+        "subtitle": "<p>Kromhouthal</p>
+",
+        "title": "
+",
+      },
+      Object {
+        "description": null,
+        "image": Object {
+          "url": "https://media.graphcms.com/JHOKIEPQFKEAfK90Q4BN",
+        },
+        "key": "location__slide",
+        "location": null,
+        "locationLink": "",
+        "registerLink": "",
+        "slackChannelName": null,
+        "subtitle": "<p>Kromhouthal</p>
+",
+        "title": "
+",
+      },
+      Object {
+        "description": null,
+        "image": Object {
+          "url": "https://media.graphcms.com/aTbTAGo5QXermNyOdM6e",
+        },
+        "key": "location__slide",
+        "location": null,
+        "locationLink": "",
+        "registerLink": "",
+        "slackChannelName": null,
+        "subtitle": "<p>Kromhouthal</p>
+",
+        "title": "
+",
+      },
+    ],
+    "preparty": Array [
+      Object {
+        "description": "<p>We’re looking for developers with side projects, who love to check out codepen.io or open-source github repo’s, design systems and style guides. People who understand that shipping fast doesn’t mean you ship bad quality.</p>
+",
+        "image": Object {
+          "url": "https://media.graphcms.com/DMLCRZORlCgZG6WpUEO2",
+        },
+        "key": "preparty",
+        "location": "<p>Sint Annendwarsstraat 6, </p>
+<p>1012 HC Amsterdam</p>
+",
+        "locationLink": "/",
+        "registerLink": null,
+        "slackChannelName": null,
+        "subtitle": null,
+        "title": "<p>TonTon Club Centrum 20:00</p>
+",
+      },
+      Object {
+        "description": "<p>Lorem Ipsum</p>
+<p>Dollor dollor</p>
+",
+        "image": Object {
+          "url": "https://media.graphcms.com/DMLCRZORlCgZG6WpUEO2",
+        },
+        "key": "preparty",
+        "location": null,
+        "locationLink": "/",
+        "registerLink": null,
+        "slackChannelName": null,
+        "subtitle": "<p>TonTon Club Centrum 20:00</p>
+",
+        "title": "
+",
+      },
+    ],
+  },
+  "faqs": Array [
+    Object {
+      "items": Array [
+        Object {
+          "answer": "<p>If your ticket states “Early Bird ticket”/”Regular ticket”/”Late Bird ticket”, it only includes a conference day pass. If your ticket states “Combo: Workshop + Conference Day”, it includes both conference day pass and a workshop.</p>
+",
+          "category": "Tickets, invoices, refunds",
+          "question": "<p>Does my ticket to the conference include workshops also?</p>
+",
+        },
+        Object {
+          "answer": "<p>You can easily change the name in the ticket in your Eventbrite account. Just log in and edit the attendee information. Pay attention that only the ticket buyer can re-assign tickets.</p>
+",
+          "category": "Tickets, invoices, refunds",
+          "question": "<p>How can I change the name in my ticket?</p>
+",
+        },
+        Object {
+          "answer": "<p>Yes, you can. Simply log in to your Eventbrite account and re-assign the ticket to this person. Pay attention that only a ticket buyer can re-assign tickets.</p>
+",
+          "category": "Tickets, invoices, refunds",
+          "question": "<p>If I can’t visit the conference, can I give the ticket to my friend/colleague?</p>
+",
+        },
+        Object {
+          "answer": "<p>Go to your Eventbrite account, click “edit”, add the VAT number in the corresponding box, resend the confirmation email. </p>
+",
+          "category": "Tickets, invoices, refunds",
+          "question": "<p>How can I add VAT to the Eventbrite invoice? </p>
+",
+        },
+        Object {
+          "answer": "<p>Yes, we can make a refund if your visa for travel was not approved. Please send us the declining letter from the embassy or any other confirming documents.</p>
+",
+          "category": "Tickets, invoices, refunds",
+          "question": "<p>Do you provide refunds if my visa is not approved?</p>
+",
+        },
+        Object {
+          "answer": "<p>No, we do not provide refunds in this case due to our policies. The reason of such non-refund policy is that we calculate and pre-pay for event facilities and catering in advance.</p>
+",
+          "category": "Tickets, invoices, refunds",
+          "question": "<p>Do you provide refunds if decided not to travel?</p>
+",
+        },
+        Object {
+          "answer": "<p>Yes, it is possible to pay via invoice. Please, send your company details to <a href=\\"mailto:hi@jsnation.com\\">hi@jsnation.com</a> and we will issue it for you: </p>
+<ul>
+<li>company name</li>
+<li>company address</li>
+<li>VAT number.</li>
+</ul>
+<p>As soon as we receive the payment, we'll send you a promo-code to activate the tickets.</p>
+",
+          "category": "Tickets, invoices, refunds",
+          "question": "<p>Can you issue an invoice for my order?</p>
+",
+        },
+        Object {
+          "answer": "<p>Please, be attentive with the dates! </p>
+<p>The correct date is indicated in the name of the ticket – example: “Advanced React Workshop (June 4)”.
+The ticket will also state the main date of the conference – June 5, although you might not have bought a ticket to the conference itself – this is how eventbrite works, and we cannot change it, unfortunately. Pay attention to what the name of the workshop says. </p>
+<p>If you have doubts – consult the website or email us hi@jsnation.com.</p>
+",
+          "category": "Tickets, invoices, refunds",
+          "question": "<p>I bought a ticket to workshop, but have another date in my ticket. What is the correct date? </p>
+",
+        },
+      ],
+      "sectionTitle": "Tickets, invoices, refunds",
+    },
+    Object {
+      "items": Array [
+        Object {
+          "answer": "<p>Yes, we can provide a student discount. Student ticket price is 150 EUR (excluding VAT).  Pease, send us a scan or a photo of your relevant students ID and we’ll issue a promocode for you.</p>
+",
+          "category": "Discounts, diversity scholarship, etc.",
+          "question": "<p>Do you have any discount for students?</p>
+",
+        },
+        Object {
+          "answer": "<p>Yes, to get a group discount please choose “Team Ticket” on Eventbrite. And some extra discounts are possible when buying more than 10 tickets.</p>
+",
+          "category": "Discounts, diversity scholarship, etc.",
+          "question": "<p>Do you provide any group discounts?</p>
+",
+        },
+        Object {
+          "answer": "<p>It includes the conference day (not workshops), food at the conference and afterparty. </p>
+",
+          "category": "Discounts, diversity scholarship, etc.",
+          "question": "<p>I was selected for a Diversity scholarship, what does it include?</p>
+",
+        },
+        Object {
+          "answer": "<p>We will publish a React Open Source projects application form, where you can submit your project. Make sure you follow us on social media and subscribe to our newsletter. </p>
+",
+          "category": "Discounts, diversity scholarship, etc.",
+          "question": "<p>How can I apply for React Open Source Awards?</p>
+",
+        },
+        Object {
+          "answer": "<p>Yes, we do run a diversity scholarship program. Free diversity tickets are distributed via community channels and also via application form. Follow our <a href=\\"https://medium.com/@amsterdamjs\\">medium blog</a> for details.</p>
+",
+          "category": "Discounts, diversity scholarship, etc.",
+          "question": "<p>Do you provide any special tickets or discount for diversity groups?</p>
+",
+        },
+      ],
+      "sectionTitle": "Discounts, diversity scholarship, etc.",
+    },
+    Object {
+      "items": Array [
+        Object {
+          "answer": "<p>You will get an email with all the information you’ll need at the conference about a week before the event. We will also add a link to a page with all organisational details to the website.</p>
+",
+          "category": "Organisational questions",
+          "question": "<p>Where can I find all logistics and organisational information?</p>
+",
+        },
+        Object {
+          "answer": "<p>Unfortunately, we won't have facilities for kids this time.</p>
+",
+          "category": "Organisational questions",
+          "question": "<p>Do you have a kids corner at the event?</p>
+",
+        },
+        Object {
+          "answer": "<p>There always is a wardrobe/cloakroom, but neither we nor the venue can be held accountable for attendee’s belongings. For big pieces of luggage, we suggest to leave them in a hotel luggage room or special luggage lockers.</p>
+",
+          "category": "Organisational questions",
+          "question": "<p>Is there a place to store my luggage during the event?</p>
+",
+        },
+      ],
+      "sectionTitle": "Organisational questions",
+    },
+    Object {
+      "items": Array [
+        Object {
+          "answer": "<p>Yes, we serve hot lunch and coffee/pastries/snacks both at the conference and the workshops.</p>
+",
+          "category": "Food for conference attendees",
+          "question": "<p>Do you serve any food at the events?</p>
+",
+        },
+        Object {
+          "answer": "<p>Yes, we have vegetarian, vegan and gluten-free food for lunch at the conference. As for workshops – please let us know in advance if you have any special meal preferences.</p>
+",
+          "category": "Food for conference attendees",
+          "question": "<p>Do you have vegetarian/vegan/gluten free options at the event and workshops?</p>
+",
+        },
+      ],
+      "sectionTitle": "Food for conference attendees",
+    },
+    Object {
+      "items": Array [
+        Object {
+          "answer": "<p>Yes, you can. Please, send us brief information about yourself: your experience in volunteering (optional) at conferences or any event organizing. Also please be sure that you’re going to be available on the day of the event and the day before it.</p>
+",
+          "category": "Other questions",
+          "question": "<p>Can I join the conference as a volunteer?</p>
+",
+        },
+        Object {
+          "answer": "<p>Laptop and charger. </p>
+",
+          "category": "Other questions",
+          "question": "<p>What do I need to bring with me to the workshop?</p>
+",
+        },
+        Object {
+          "answer": "<p>Yes, of course! We’d be happy if you become our info-partner. Please, drop us a line at <a href=\\"mailto:hi@jsnation.com\\">hi@jsnation.com</a> and we’ll get back to you with all the information.</p>
+",
+          "category": "Other questions",
+          "question": "<p>We are a community/also a tech conference. Could we collaborate with your conference?</p>
+",
+        },
+      ],
+      "sectionTitle": "Other questions",
+    },
+    Object {
+      "items": Array [
+        Object {
+          "answer": "<p>Yes, we can issue an invitation letter to make the process of getting visa easier. Please, send to <a href=\\"mailto:hi@jsnation.com\\">hi@jsnation.com</a> the following details according to your travel document, as well as your ticket to the conference:</p>
+<ul>
+<li>First name:</li>
+<li>Last name:</li>
+<li>Date of birth:</li>
+<li>Nationality:</li>
+<li>Passport number:</li>
+<li>Date of issue:</li>
+<li>Expiration date:</li>
+</ul>
+",
+          "category": "Visa",
+          "question": "<p>Can you issue an invitation letter to apply for a visa?</p>
+",
+        },
+      ],
+      "sectionTitle": "Visa",
+    },
+  ],
+  "jobs": Array [
+    Object {
+      "description": "
+",
+      "id": "ck36gdnkrxin20b66of6jxny4",
+      "image": "https://media.graphcms.com/knpNY7bTqm4Lh4yQis1Z",
+      "link": "https://www.formidable.com/",
+      "slogan": "
+",
+      "subtitle": "
+",
+      "title": "Are You Formidable?",
+    },
+  ],
+  "mcs": Array [
+    Object {
+      "activities": Object {},
+      "avatar": "https://media.graphcms.com/output=format:jpg/resize=fit:crop,height:500,width:500/6gQUujMTJatYxdKyBWzq",
+      "bio": "<p>Bruce Lawson is freelance web standards and accessibility consultant. He was co-editor of the HTML5.3 specification, one of the inventors of the <picture> element, and was on the committee that drafted the British Standard for commissioning accessible websites. He co-wrote 'Introducing HTML5'. He's previously been deputy CTO of Opera browsers, front-end lead for a large UK legal organisation, a Fortran and mainframe programmer as well as a Bollywood movie extra, a musician, a tarot card reader, tutor to a Thai princess and actor.</p>
+",
+      "company": "Freelance web standards & accessibility consultant, UK",
+      "country": "UK",
+      "githubUrl": null,
+      "id": "ck42wk4cplr6v0b320jirdl2f",
+      "mediumUrl": null,
+      "name": "Bruce Lawson",
+      "ownSite": "https://www.brucelawson.co.uk/",
+      "slug": "bruce-lawson",
+      "socials": Array [
+        Object {
+          "icon": "tw",
+          "link": "https://twitter.com/brucel",
+        },
+        Object {
+          "icon": "site",
+          "link": "https://www.brucelawson.co.uk/",
+        },
+      ],
+      "twitterUrl": "https://twitter.com/brucel",
+    },
+    Object {
+      "activities": Object {},
+      "avatar": "https://media.graphcms.com/output=format:jpg/resize=fit:crop,height:500,width:500/LJvYR4kGQLOdL6y5CWC9",
+      "bio": "<p>Floor studied design, worked in advertising, then worked with a bunch of start-ups in product and community roles, learned how to program (Ruby), (co)organized countless tech conferences, meetups and workshops, ran a co-working space and start-up accelerator in Vienna, before moving back to the Netherlands and getting back into developer relations.</p>
+",
+      "company": "Microsoft, Netherlands",
+      "country": "Netherlands",
+      "githubUrl": "https://github.com/FloorD",
+      "id": "ck5we9vpqer9u0b66r7n5rq4z",
+      "mediumUrl": null,
+      "name": "Floor Drees",
+      "ownSite": null,
+      "slug": "floor-drees",
+      "socials": Array [
+        Object {
+          "icon": "gh",
+          "link": "https://github.com/FloorD",
+        },
+        Object {
+          "icon": "tw",
+          "link": "https://twitter.com/floordrees",
+        },
+      ],
+      "twitterUrl": "https://twitter.com/floordrees",
+    },
+    Object {
+      "activities": Object {},
+      "avatar": "https://media.graphcms.com/output=format:jpg/resize=fit:crop,height:500,width:500/dVk76RUqrRdTGRSbGgsp",
+      "bio": "<p>React focused developer, working on a Design System at Albert Heijn (Dutch supermarket). Started out writing ActionScript, did jQuery and thus has all sorts of knowledge on deprecated stuff. Part of a frontend development couple that produced a kid.</p>
+",
+      "company": "Passionate People, Netherlands",
+      "country": "Netherlands",
+      "githubUrl": "https://github.com/mettin",
+      "id": "ck5weu60bem5y0b20y7hj3pd9",
+      "mediumUrl": null,
+      "name": "Mettin Parzinski",
+      "ownSite": null,
+      "slug": "mettin-parzinski",
+      "socials": Array [
+        Object {
+          "icon": "gh",
+          "link": "https://github.com/mettin",
+        },
+        Object {
+          "icon": "tw",
+          "link": "https://twitter.com/mettinparzinski",
+        },
+      ],
+      "twitterUrl": "https://twitter.com/mettinparzinski",
+    },
+  ],
+  "pages": Object {
+    "coc": Object {
+      "description": null,
+      "key": "coc",
+      "keywords": "",
+      "pageNavigation": null,
+      "pageSections": null,
+      "pageSlogan": null,
+      "pageStatistics": null,
+      "seoDescription": null,
+      "themeColor": null,
+      "titlePage": "Code of conduct",
+      "titleSeo": null,
+    },
+    "extended": Object {
+      "description": null,
+      "key": "extended",
+      "keywords": "",
+      "pageNavigation": null,
+      "pageSections": null,
+      "pageSlogan": null,
+      "pageStatistics": null,
+      "seoDescription": null,
+      "themeColor": null,
+      "titlePage": "Extended program",
+      "titleSeo": null,
+    },
+    "faq": Object {
+      "description": null,
+      "key": "faq",
+      "keywords": "",
+      "pageNavigation": null,
+      "pageSections": null,
+      "pageSlogan": null,
+      "pageStatistics": null,
+      "seoDescription": null,
+      "themeColor": null,
+      "titlePage": "FAQ",
+      "titleSeo": null,
+    },
+    "jobs": Object {
+      "description": null,
+      "key": "jobs",
+      "keywords": "",
+      "pageNavigation": null,
+      "pageSections": null,
+      "pageSlogan": null,
+      "pageStatistics": null,
+      "seoDescription": null,
+      "themeColor": null,
+      "titlePage": "Amsterdam JSNation Conference 2020",
+      "titleSeo": null,
+    },
+    "main": Object {
+      "description": null,
+      "key": "main",
+      "keywords": "javascript, conference, amsterdamjs, jsnation, vuejs, react, angular, frameworks",
+      "pageNavigation": Object {
+        "headerNav": Array [
+          Object {
+            "href": "#location",
+            "text": "location",
+          },
+          Object {
+            "href": "#awards",
+            "text": "OS Awards",
+          },
+          Object {
+            "href": "#diversity",
+            "text": "diversity",
+          },
+          Object {
+            "href": "#sponsors",
+            "text": "sponsors",
+          },
+          Object {
+            "href": "/workshops",
+            "text": "workshops",
+          },
+          Object {
+            "href": "/faq",
+            "text": "FAQ",
+          },
+          Object {
+            "href": "#contact",
+            "text": "contact us",
+          },
+        ],
+      },
+      "pageSections": Object {
+        "committee": Object {
+          "title": "Programme Committee",
+        },
+        "locationSection": Object {
+          "showArrows": false,
+          "title": "Summertime JS festival",
+        },
+        "mcSection": Object {
+          "showArrows": false,
+          "title": "Your hosts",
+        },
+        "performance": Object {
+          "title": "Last year's JS performances",
+        },
+        "speakers": Object {
+          "title": "First speakers",
+          "todo": "rename to team",
+        },
+        "sponsorsSection": Object {
+          "descr": "Looking for a company that cares about developer communities and invests into personal development?<br/> Check out the <a href=\\"/js-jobs\\">job placements from our partners</a>.",
+          "title": "Sponsors",
+        },
+        "team": Object {
+          "cpf": true,
+          "title": "First speakers",
+        },
+      },
+      "pageSlogan": "JavaScript is #1 on demand programming language in the world with 25 millions of developers behind it. Meet the ones who shape out the now and the future of the prospering nation.",
+      "pageStatistics": Object {
+        "hero": Array [
+          Object {
+            "descr": "Workshops <br/> + Conference",
+            "num": 3,
+            "title": "days",
+          },
+          Object {
+            "descr": "General<br/> + NodeJS",
+            "num": 2,
+            "title": "tracks",
+          },
+          Object {
+            "descr": "Sharing common<br/> language",
+            "mod": "vent__item_lg",
+            "num": 1000,
+            "title": "personalities",
+          },
+        ],
+        "techScope": Array [
+          Object {
+            "image": "img/techs_webpack.png",
+            "title": "Webpack",
+          },
+          Object {
+            "image": "https://media.graphcms.com/hUzKbWbTe2JPccwz4doH",
+            "title": "Deno",
+          },
+          Object {
+            "image": "img/techs_node.png",
+            "title": "Node.js",
+          },
+          Object {
+            "image": "img/techs_three.png",
+            "title": "Three.js",
+          },
+          Object {
+            "image": "https://media.graphcms.com/pcyqiYpDRXGtdYeSprs8",
+            "title": "Svelte",
+          },
+          Object {
+            "image": "img/techs_vue.png",
+            "title": "Vue.js",
+          },
+          Object {
+            "image": "img/techs_angular.png",
+            "title": "Angular",
+          },
+          Object {
+            "image": "img/techs_nestjs_inv.png",
+            "title": "NestJS",
+          },
+          Object {
+            "image": "https://media.graphcms.com/mkPnhEJETVJMOTS7Xl8Q",
+            "title": "TypeScript",
+          },
+          Object {
+            "_title": "Babel",
+            "image": "img/techs_babel.png?v2",
+          },
+          Object {
+            "_title": "RX.js",
+            "image": "img/techs_rxjs.png",
+          },
+          Object {
+            "_title": "MobX",
+            "image": "img/techs_mobx.png",
+          },
+          Object {
+            "_title": "Cycle",
+            "image": "img/techs_cycle.png",
+          },
+          Object {
+            "_title": "Cypress",
+            "image": "img/techs_cypres.png",
+          },
+          Object {
+            "_title": "Pixi",
+            "image": "img/techs_pixi.png?v2",
+          },
+          Object {
+            "_title": "Babylon",
+            "image": "img/techs_babylon.png",
+          },
+          Object {
+            "_title": "Webdriver.io",
+            "image": "img/techs_webdriver.png",
+          },
+        ],
+      },
+      "seoDescription": "Amsterdam JSNation is a 2-day event focusing exclusively on JavaScript development. At our conference, inspiring talks meet fresh ideas and good people - you’ll hear all you need to know about the latest trends in JS tech, see stellar speakers, meet new friends and colleagues, and connect with key people in the industry. Plus, all of that in one of Europe's top destinations.",
+      "themeColor": null,
+      "titlePage": "Core library authors.<br/> Hands-on learning.<br/> Summer Amsterdam.",
+      "titleSeo": "Amsterdam JSNation Conference 2020",
+    },
+    "workshops": Object {
+      "description": null,
+      "key": "workshops",
+      "keywords": "javascript, conference, workshops, jsnation, amsterdamjs, vuejs, react, angular, frameworks",
+      "pageNavigation": Object {
+        "headerNav": Array [
+          Object {
+            "href": "/",
+            "text": "Conference page",
+          },
+          Object {
+            "href": "/faq",
+            "text": "FAQ",
+          },
+        ],
+      },
+      "pageSections": Object {
+        "team": Object {
+          "cpf": false,
+          "title": "Trainers",
+        },
+        "title": "Workshops <br/>on June 3 and 4",
+        "trainers": Object {
+          "title": "Trainers",
+        },
+      },
+      "pageSlogan": "JavaScript is #1 on demand programming language in the world with 25 millions of developers behind it. Meet the ones who shape out the now and the future of the prospering nation.",
+      "pageStatistics": null,
+      "seoDescription": "Amsterdam JSNation is a 3-day event focusing exclusively on JavaScript development. At our conference, inspiring talks meet fresh ideas and good people - you’ll hear all you need to know about the latest trends in JS tech, see stellar speakers, meet new friends and colleagues, and connect with key people in the industry. Plus, all of that in one of Europe's top destinations.",
+      "themeColor": null,
+      "titlePage": "Learn from the best cherry-picked trainers",
+      "titleSeo": "Workshops at Amsterdam JSNation Conference",
+    },
+  },
+  "pagesPieceOfTexts": Object {
+    "event__descr": "<p>JSNation is going to be the main happening of the JS scene in 2020. Want to know the future of the JavaScript ecosystem and get connected to the stellar crowd? The conference unites library authors and core teams with engineers having a summer Amsterdam as a background. We recognize JavaScript development as an art of engineering, and that's why the conference offers both a JS-driven art exhibition and audiovisual performances powered with JavaScript during the afterparty. The next day after the event, we'll explore the well-known Amsterdam museums together, and later on, we'll gather for a picnic/hangout in the Vondelpark. </p>
+",
+    "faq__descr": "<p>Our team is always striving to provide the best support to help you with any questions related to conference attendance and to make information more transparent and instantly accessible, we've started gathering most frequently asked questions on the page below.</p>
+<p>If you can't find an answer to your question below - contact us via hi@jsnation.com.</p>
+",
+    "performance__descr": "<p>In 2019, we initiated a Call for JavaScript Artists which allowed us to deliver a state-of-the-art afterparty program with audiovisual acts powered by NodeJS, WebGL, WebAudioAPI. Want to know the programme for 2020? <a href=\\"#subscribe\\">Follow us</a></p>
+",
+  },
+  "schedule": Array [
+    Object {
+      "active": true,
+      "list": Array [
+        Object {
+          "description": "There is a lot of talk about Reactivity in the frontend landscape of late, but what is it? And how does Vue use reactive premises to manage state in an application? In this talk, we'll go over what reactivity is in general, and how that applies to the upcoming changes in Vue 3. We'll cover proxies, the virtual DOM, and watchers along the way.",
+          "from": "Netlify, USA",
+          "label": "Ecosystem",
+          "name": "Sarah Drasner",
+          "place": "Netlify, USA",
+          "slug": "an-animated-guide-to-vue-3-reactivity-and-internals",
+          "speaker": "Sarah Drasner",
+          "speakerSlug": "sarah-drasner",
+          "text": "There is a lot of talk about Reactivity in the frontend landscape of late, but what is it? And how does Vue use reactive premises to manage state in an application? In this talk, we'll go over what reactivity is in general, and how that applies to the upcoming changes in Vue 3. We'll cover proxies, the virtual DOM, and watchers along the way.",
+          "time": null,
+          "title": "An Animated Guide to Vue 3 Reactivity and Internals",
+          "track": "General",
+        },
+        Object {
+          "description": null,
+          "from": "Webpack, Germany",
+          "label": "Ecosystem",
+          "name": "Tobias Koppers",
+          "place": "Webpack, Germany",
+          "slug": "webpack-5-build-caching-to-cache-or-not-to-cache",
+          "speaker": "Tobias Koppers",
+          "speakerSlug": "tobias-koppers",
+          "text": null,
+          "time": null,
+          "title": "Webpack 5 Build Caching. \\"To cache or not to cache\\"",
+          "track": null,
+        },
+        Object {
+          "description": "TypeScript continues its growth journey and is slowly taking over JavaScript world. Types inference, powerful expressivity, strict compile-time checks, all these features make building complex JavaScript apps a breeze. In this session, you will see how TypeScript’s hidden features helped us to build NestJS, the fastest growing Node.js technology in 2019.",
+          "from": "NestJS | Trilon.io, Poland",
+          "label": "NestJS",
+          "name": "Kamil Mysliwiec",
+          "place": "NestJS | Trilon.io, Poland",
+          "slug": "unlocking-new-capabilities-for-node-js-with-type-script-and-nest-js",
+          "speaker": "Kamil Mysliwiec",
+          "speakerSlug": "kamil-mysliwiec",
+          "text": "TypeScript continues its growth journey and is slowly taking over JavaScript world. Types inference, powerful expressivity, strict compile-time checks, all these features make building complex JavaScript apps a breeze. In this session, you will see how TypeScript’s hidden features helped us to build NestJS, the fastest growing Node.js technology in 2019.",
+          "time": null,
+          "title": "Unlocking New Capabilities for Node.js with TypeScript and NestJS",
+          "track": null,
+        },
+        Object {
+          "description": "Promise.all is a fantastic utility to wait for a list of promises to complete. Developers around the globe use it daily in Node.js applications to parallelise tasks and reduce latency. Most of the time, it works as expected. Sometimes, it causes so much memory allocation that it slows your process to a crawl or results in an out-of-memory error. Why? Let's dig in together.",
+          "from": "NearForm, Italy",
+          "label": "NodeJS",
+          "name": "Matteo Collina",
+          "place": "NearForm, Italy",
+          "slug": "beware-of-promise-all",
+          "speaker": "Matteo Collina",
+          "speakerSlug": "matteo-collina",
+          "text": "Promise.all is a fantastic utility to wait for a list of promises to complete. Developers around the globe use it daily in Node.js applications to parallelise tasks and reduce latency. Most of the time, it works as expected. Sometimes, it causes so much memory allocation that it slows your process to a crawl or results in an out-of-memory error. Why? Let's dig in together.",
+          "time": null,
+          "title": "Beware of Promise.all",
+          "track": null,
+        },
+        Object {
+          "description": null,
+          "from": "Three.js, Spain",
+          "label": "WebGL",
+          "name": "Mr.doob",
+          "place": "Three.js, Spain",
+          "slug": "fake-title-it-just-a-template",
+          "speaker": "Mr.doob",
+          "speakerSlug": "mr-doob",
+          "text": null,
+          "time": null,
+          "title": "Fake Title it just a template",
+          "track": "General",
+        },
+        Object {
+          "description": "There are stats coming out that in 2020 about 50% of all JavaScript projects using npm will be using TypeScript, how did this come to be and what systems are in place to keep the TypeScript team in Microsoft from trying to extinguish JavaScript?",
+          "from": "Microsoft, USA",
+          "label": "TypeScript",
+          "name": "Orta Therox",
+          "place": "Microsoft, USA",
+          "slug": "how-type-script-embraces-and-extends-java-script",
+          "speaker": "Orta Therox",
+          "speakerSlug": "orta-therox",
+          "text": "There are stats coming out that in 2020 about 50% of all JavaScript projects using npm will be using TypeScript, how did this come to be and what systems are in place to keep the TypeScript team in Microsoft from trying to extinguish JavaScript?",
+          "time": null,
+          "title": "How TypeScript embraces and extends JavaScript",
+          "track": null,
+        },
+        Object {
+          "description": "After years of hard work from the Modules Team, ESM is shipping in Node.js. In this talk we'll go over the distinct patterns you'll want to use when adopting ESM as a first-class module system in Node.js.",
+          "from": "Microsoft, USA",
+          "label": "NodeJS",
+          "name": "Tierney Cyren",
+          "place": "Microsoft, USA",
+          "slug": "import-modules-as-esm-from-nodejs",
+          "speaker": "Tierney Cyren",
+          "speakerSlug": "tierney-cyren",
+          "text": "After years of hard work from the Modules Team, ESM is shipping in Node.js. In this talk we'll go over the distinct patterns you'll want to use when adopting ESM as a first-class module system in Node.js.",
+          "time": null,
+          "title": "import { modules } as esm from “nodejs”",
+          "track": null,
+        },
+        Object {
+          "description": "Dive into the world of decentralized data structures and learn how these open up new paths to JavaScript that can run anywhere, from anywhere, without a compiler.",
+          "from": "Protocol Labs, USA",
+          "label": "NodeJS",
+          "name": "Mikeal Rogers",
+          "place": "Protocol Labs, USA",
+          "slug": "decentralized-universal-java-script",
+          "speaker": "Mikeal Rogers",
+          "speakerSlug": "mikeal-rogers",
+          "text": "Dive into the world of decentralized data structures and learn how these open up new paths to JavaScript that can run anywhere, from anywhere, without a compiler.",
+          "time": null,
+          "title": "Decentralized Universal JavaScript",
+          "track": null,
+        },
+        Object {
+          "description": "Live-coded audiovisual presentation that will delve into musical notation and visual scores as a  language for human-computer improvisation. What does it mean when an instruction is open-ended rather than precise? How can algorithmic uncertainty open up creative possibilities to improvise using code? Olivia will use javascript to explore a live relationship between code, image, and sound as intertwined creative languages.",
+          "from": "Hydra, Colombia",
+          "label": "WebGL",
+          "name": "Olivia Jack",
+          "place": "Hydra, Colombia",
+          "slug": "code-notation-score",
+          "speaker": "Olivia Jack",
+          "speakerSlug": "olivia-jack",
+          "text": "Live-coded audiovisual presentation that will delve into musical notation and visual scores as a  language for human-computer improvisation. What does it mean when an instruction is open-ended rather than precise? How can algorithmic uncertainty open up creative possibilities to improvise using code? Olivia will use javascript to explore a live relationship between code, image, and sound as intertwined creative languages.",
+          "time": null,
+          "title": "code - notation - score",
+          "track": null,
+        },
+      ],
+      "name": "10",
+      "tab": "General",
+      "title": "General",
+    },
+  ],
+  "scheduleTitle": "Talks",
+  "speakers": Object {
+    "committee": Array [
+      Object {
+        "activities": Object {},
+        "avatar": "https://media.graphcms.com/output=format:jpg/resize=fit:crop,height:500,width:500/U3D6ETwEQ7GD8wlJUG5G",
+        "bio": "<p>Joonas Salovaara is a Principal Consultant and team lead at Reaktor Amsterdam. He is an advocate of the meetup scene, where he helps run AmsterdamJS, HelsinkiJS, and React Helsinki. </p>
+",
+        "company": "Reaktor, Netherlands",
+        "country": "Netherlands",
+        "decor": true,
+        "githubUrl": "https://github.com/sarukuku",
+        "id": "ck5ci3p89gqqv0b20i49qyt1x",
+        "mediumUrl": null,
+        "name": "Joonas Salovaara",
+        "ownSite": null,
+        "slug": "joonas-salovaara",
+        "socials": Array [
+          Object {
+            "icon": "gh",
+            "link": "https://github.com/sarukuku",
+          },
+          Object {
+            "icon": "tw",
+            "link": "https://twitter.com/JoonasSalovaara",
+          },
+        ],
+        "twitterUrl": "https://twitter.com/JoonasSalovaara",
+      },
+      Object {
+        "activities": Object {},
+        "avatar": "https://media.graphcms.com/output=format:jpg/resize=fit:crop,height:500,width:500/VttgCnjTkanMOLw0OSJJ",
+        "bio": "<p>Kanstantsin is a Software Developer Consultant in Xebia. He is passionate about running, racing cars and JavaScript.</p>
+",
+        "company": "Xebia, Netherlands",
+        "country": "Netherlands",
+        "decor": true,
+        "githubUrl": "https://github.com/mrkosima?tab=stars",
+        "id": "ck5ci9esogqzy0b20s1auip8a",
+        "mediumUrl": null,
+        "name": "Kanstantsin Klimashevich",
+        "ownSite": null,
+        "slug": "kanstantsin-klimashevich",
+        "socials": Array [
+          Object {
+            "icon": "gh",
+            "link": "https://github.com/mrkosima?tab=stars",
+          },
+        ],
+        "twitterUrl": null,
+      },
+      Object {
+        "activities": Object {},
+        "avatar": "https://media.graphcms.com/output=format:jpg/resize=fit:crop,height:500,width:500/wpWwhvX5T5SBZjbfFaSK",
+        "bio": "<p>Aleksandr is a Frontend Developer with 6 years experience. He is a member of JSNation Program Committee and an active member of Saint-Petersburg local meetup scene. He is passionated about games development, visualization and other graphics stuff.</p>
+",
+        "company": "Tinkoff.ru, Russia",
+        "country": "Russia",
+        "decor": true,
+        "githubUrl": "https://github.com/lekzd",
+        "id": "ck5dlqk56igxf0b20bz4d7n7y",
+        "mediumUrl": null,
+        "name": "Aleksandr Korotaev",
+        "ownSite": null,
+        "slug": "aleksandr-korotaev",
+        "socials": Array [
+          Object {
+            "icon": "gh",
+            "link": "https://github.com/lekzd",
+          },
+          Object {
+            "icon": "tw",
+            "link": "https://twitter.com/mamu_eval",
+          },
+        ],
+        "twitterUrl": "https://twitter.com/mamu_eval",
+      },
+    ],
+    "main": Array [
+      Object {
+        "activities": Object {},
+        "avatar": "https://media.graphcms.com/output=format:jpg/resize=fit:crop,height:500,width:500/0EkXq8vRTK7ZQ4HQFXUQ",
+        "bio": "<p>Charlie is a front-end developer at Netlify, a Mozilla Tech Speaker and Google Developer Expert in Web Technologies. She is passionate about creative coding and building interactive prototypes mixing science, art and technology. She also spends time giving back to the community by mentoring new developers, contributing to open-source projects, and speaking at conferences. </p>
+",
+        "color": "white",
+        "company": "Netlify, Netherlands",
+        "country": "Netherlands",
+        "githubUrl": "https://github.com/charliegerard",
+        "id": "ck444j0qbo0ou0b32nya7r457",
+        "isNightSpeaker": null,
+        "label": null,
+        "mediumUrl": null,
+        "name": "Charlie Gerard",
+        "order": 10,
+        "ownSite": "https://charliegerard.github.io/",
+        "slug": "charlie-gerard",
+        "socials": Array [
+          Object {
+            "icon": "gh",
+            "link": "https://github.com/charliegerard",
+          },
+          Object {
+            "icon": "tw",
+            "link": "https://twitter.com/devdevcharlie",
+          },
+          Object {
+            "icon": "site",
+            "link": "https://charliegerard.github.io/",
+          },
+        ],
+        "status": "PUBLISHED",
+        "tagBG": "black",
+        "twitterUrl": "https://twitter.com/devdevcharlie",
+      },
+      Object {
+        "activities": Object {
+          "talks": Array [
+            Object {
+              "description": "Promise.all is a fantastic utility to wait for a list of promises to complete. Developers around the globe use it daily in Node.js applications to parallelise tasks and reduce latency. Most of the time, it works as expected. Sometimes, it causes so much memory allocation that it slows your process to a crawl or results in an out-of-memory error. Why? Let's dig in together.",
+              "isLightning": false,
+              "slug": "beware-of-promise-all",
+              "timeString": "",
+              "title": "Beware of Promise.all",
+              "track": null,
+            },
+          ],
+        },
+        "avatar": "https://media.graphcms.com/output=format:jpg/resize=fit:crop,height:500,width:500/4LTWaL5SpOCr2oBbS8rq",
+        "bio": "<p>Node.js TSC member, PhD, Technical Director @ NearForm, IoT Expert, Consultant, author of Pino and Fastify. Co-author of the book \\"Node.js Cookbook, Third Edition\\" edited by Packt.</p>
+",
+        "color": "#fff",
+        "company": "NearForm, Italy",
+        "country": "Italy",
+        "githubUrl": "https://github.com/mcollina",
+        "id": "ck38s81rz28ki0b66keep3ghk",
+        "isNightSpeaker": null,
+        "label": "NodeJS",
+        "mediumUrl": "http://matteocollina.com/",
+        "name": "Matteo Collina",
+        "order": 9,
+        "ownSite": "",
+        "slug": "matteo-collina",
+        "socials": Array [
+          Object {
+            "icon": "gh",
+            "link": "https://github.com/mcollina",
+          },
+          Object {
+            "icon": "tw",
+            "link": "https://twitter.com/matteocollina",
+          },
+          Object {
+            "icon": "med",
+            "link": "http://matteocollina.com/",
+          },
+        ],
+        "status": "PUBLISHED",
+        "tagBG": "#7AB464",
+        "twitterUrl": "https://twitter.com/matteocollina",
+      },
+      Object {
+        "activities": Object {
+          "talks": Array [
+            Object {
+              "description": null,
+              "isLightning": null,
+              "slug": "webpack-5-build-caching-to-cache-or-not-to-cache",
+              "timeString": "",
+              "title": "Webpack 5 Build Caching. \\"To cache or not to cache\\"",
+              "track": null,
+            },
+          ],
+        },
+        "avatar": "https://media.graphcms.com/output=format:jpg/resize=fit:crop,height:500,width:500/3PwPQYRMRDKMjoQX05Bk",
+        "bio": "<p>Creator of webpack. Working full time on Open Source. Father of two children. Likes to play board games.</p>
+",
+        "color": "#ae4f01",
+        "company": "Webpack, Germany",
+        "country": "Germany",
+        "githubUrl": "https://github.com/sokra",
+        "id": "ck38sgfs929210b6654p3jpg0",
+        "isNightSpeaker": null,
+        "label": "Ecosystem",
+        "mediumUrl": "https://medium.com/@sokra",
+        "name": "Tobias Koppers",
+        "order": 8,
+        "ownSite": null,
+        "slug": "tobias-koppers",
+        "socials": Array [
+          Object {
+            "icon": "gh",
+            "link": "https://github.com/sokra",
+          },
+          Object {
+            "icon": "tw",
+            "link": "https://twitter.com/wSokrav",
+          },
+          Object {
+            "icon": "med",
+            "link": "https://medium.com/@sokra",
+          },
+        ],
+        "status": "PUBLISHED",
+        "tagBG": "#fff40d",
+        "twitterUrl": "https://twitter.com/wSokrav",
+      },
+      Object {
+        "activities": Object {
+          "talks": Array [
+            Object {
+              "description": null,
+              "isLightning": false,
+              "slug": "fake-title-it-just-a-template",
+              "timeString": "14:45",
+              "title": "Fake Title it just a template",
+              "track": Object {
+                "isPrimary": true,
+                "name": "General",
+              },
+            },
+          ],
+        },
+        "avatar": "https://media.graphcms.com/output=format:jpg/resize=fit:crop,height:500,width:500/h7xLULGR2uFiZUbcWyKe",
+        "bio": "<p>Author of Three.js.</p>
+",
+        "color": "#ffffff",
+        "company": "Three.js, Spain",
+        "country": "Spain",
+        "githubUrl": "https://github.com/mrdoob",
+        "id": "ck38sj3w7qkgv0b73xvr4zraj",
+        "isNightSpeaker": null,
+        "label": "WebGL",
+        "mediumUrl": "",
+        "name": "Mr.doob",
+        "order": 7,
+        "ownSite": "https://mrdoob.com/",
+        "slug": "mr-doob",
+        "socials": Array [
+          Object {
+            "icon": "gh",
+            "link": "https://github.com/mrdoob",
+          },
+          Object {
+            "icon": "tw",
+            "link": "https://twitter.com/mrdoob",
+          },
+          Object {
+            "icon": "site",
+            "link": "https://mrdoob.com/",
+          },
+        ],
+        "status": "PUBLISHED",
+        "tagBG": "#ff7302",
+        "twitterUrl": "https://twitter.com/mrdoob",
+      },
+      Object {
+        "activities": Object {
+          "talks": Array [
+            Object {
+              "description": "Dive into the world of decentralized data structures and learn how these open up new paths to JavaScript that can run anywhere, from anywhere, without a compiler.",
+              "isLightning": null,
+              "slug": "decentralized-universal-java-script",
+              "timeString": null,
+              "title": "Decentralized Universal JavaScript",
+              "track": null,
+            },
+          ],
+        },
+        "avatar": "https://media.graphcms.com/output=format:jpg/resize=fit:crop,height:500,width:500/zXDRIVADSmqdqh9PIRWU",
+        "bio": "<p>Сreator of request and NodeConf. He was a leader in the io.js project and lead the Node.js Foundation through the merger of io.js and Node.js. He now works at Protocol Labs leading the IPLD project.</p>
+",
+        "color": "#fff",
+        "company": "Protocol Labs, USA",
+        "country": "USA",
+        "githubUrl": "https://github.com/mikeal",
+        "id": "ck38smgd51zks0b32z5nmzg3y",
+        "isNightSpeaker": null,
+        "label": "NodeJS",
+        "mediumUrl": "https://medium.com/@mikeal",
+        "name": "Mikeal Rogers",
+        "order": 6,
+        "ownSite": null,
+        "slug": "mikeal-rogers",
+        "socials": Array [
+          Object {
+            "icon": "gh",
+            "link": "https://github.com/mikeal",
+          },
+          Object {
+            "icon": "tw",
+            "link": "https://twitter.com/mikeal",
+          },
+          Object {
+            "icon": "med",
+            "link": "https://medium.com/@mikeal",
+          },
+        ],
+        "status": "PUBLISHED",
+        "tagBG": "#7AB464",
+        "twitterUrl": "https://twitter.com/mikeal",
+      },
+      Object {
+        "activities": Object {
+          "talks": Array [
+            Object {
+              "description": "There is a lot of talk about Reactivity in the frontend landscape of late, but what is it? And how does Vue use reactive premises to manage state in an application? In this talk, we'll go over what reactivity is in general, and how that applies to the upcoming changes in Vue 3. We'll cover proxies, the virtual DOM, and watchers along the way.",
+              "isLightning": null,
+              "slug": "an-animated-guide-to-vue-3-reactivity-and-internals",
+              "timeString": "",
+              "title": "An Animated Guide to Vue 3 Reactivity and Internals",
+              "track": Object {
+                "isPrimary": true,
+                "name": "General",
+              },
+            },
+          ],
+        },
+        "avatar": "https://media.graphcms.com/output=format:jpg/resize=fit:crop,height:500,width:500/S46QV4WvTlefyYEg3I0I",
+        "bio": "<p>Head of Developer Experience at Netlify, Vue core team member, and Staff Writer at CSS-Tricks. Sarah is formerly Principal Lead of Emerging Markets, Cloud Advocates at Microsoft and Manager of UX &#x26; Engineering at Trulia/Zillow Group. She’s the author of SVG Animations from O’Reilly and has given Frontend Masters workshops. Sarah is a co-organizer of ConcatenateConf, a free conference for Nigerian and Kenyan developers.</p>
+",
+        "color": "#ae4f01",
+        "company": "Netlify, USA",
+        "country": "USA",
+        "githubUrl": "https://github.com/sdras",
+        "id": "ck2wz494viqmx0b73yobzoe5w",
+        "isNightSpeaker": null,
+        "label": "Ecosystem",
+        "mediumUrl": "",
+        "name": "Sarah Drasner",
+        "order": 5,
+        "ownSite": "https://sarah.dev/",
+        "slug": "sarah-drasner",
+        "socials": Array [
+          Object {
+            "icon": "gh",
+            "link": "https://github.com/sdras",
+          },
+          Object {
+            "icon": "tw",
+            "link": "https://twitter.com/sarah_edo",
+          },
+          Object {
+            "icon": "site",
+            "link": "https://sarah.dev/",
+          },
+        ],
+        "status": "PUBLISHED",
+        "tagBG": "#fff40d",
+        "twitterUrl": "https://twitter.com/sarah_edo",
+      },
+      Object {
+        "activities": Object {
+          "talks": Array [
+            Object {
+              "description": "There are stats coming out that in 2020 about 50% of all JavaScript projects using npm will be using TypeScript, how did this come to be and what systems are in place to keep the TypeScript team in Microsoft from trying to extinguish JavaScript?",
+              "isLightning": null,
+              "slug": "how-type-script-embraces-and-extends-java-script",
+              "timeString": null,
+              "title": "How TypeScript embraces and extends JavaScript",
+              "track": null,
+            },
+          ],
+        },
+        "avatar": "https://media.graphcms.com/output=format:jpg/resize=fit:crop,height:500,width:500/NPpzhbjmTU2x6vl9kySi",
+        "bio": "<p>TypeScript compiler team at Microsoft. For the last decade has worked on large-scale open source projects across the native and JavaScript ecosystem.</p>
+",
+        "color": "#030303",
+        "company": "Microsoft, USA",
+        "country": "USA",
+        "githubUrl": "https://github.com/orta",
+        "id": "ck5miip5wmdqz0b7535julaeu",
+        "isNightSpeaker": null,
+        "label": "TypeScript",
+        "mediumUrl": null,
+        "name": "Orta Therox",
+        "order": 4,
+        "ownSite": null,
+        "slug": "orta-therox",
+        "socials": Array [
+          Object {
+            "icon": "gh",
+            "link": "https://github.com/orta",
+          },
+          Object {
+            "icon": "tw",
+            "link": "https://twitter.com/orta",
+          },
+        ],
+        "status": "PUBLISHED",
+        "tagBG": "#61DAFB",
+        "twitterUrl": "https://twitter.com/orta",
+      },
+      Object {
+        "activities": Object {
+          "talks": Array [
+            Object {
+              "description": "TypeScript continues its growth journey and is slowly taking over JavaScript world. Types inference, powerful expressivity, strict compile-time checks, all these features make building complex JavaScript apps a breeze. In this session, you will see how TypeScript’s hidden features helped us to build NestJS, the fastest growing Node.js technology in 2019.",
+              "isLightning": null,
+              "slug": "unlocking-new-capabilities-for-node-js-with-type-script-and-nest-js",
+              "timeString": "",
+              "title": "Unlocking New Capabilities for Node.js with TypeScript and NestJS",
+              "track": null,
+            },
+          ],
+        },
+        "avatar": "https://media.graphcms.com/output=format:jpg/resize=fit:crop,height:500,width:500/9SEIZ7SueIgj7GiUs9Zg",
+        "bio": "<p>Creator of NestJS, Co-Founder of Trilon.io, Google Developer Expert in Web Technologies and Angular, international speaker, trainer, consultant, and open source contributor.</p>
+",
+        "color": "#fff",
+        "company": "NestJS | Trilon.io, Poland",
+        "country": "Poland",
+        "githubUrl": "https://github.com/kamilmysliwiec",
+        "id": "ck42w9tfl8hfx0b73mk2myam3",
+        "isNightSpeaker": null,
+        "label": "NestJS",
+        "mediumUrl": null,
+        "name": "Kamil Mysliwiec",
+        "order": 3,
+        "ownSite": null,
+        "slug": "kamil-mysliwiec",
+        "socials": Array [
+          Object {
+            "icon": "gh",
+            "link": "https://github.com/kamilmysliwiec",
+          },
+          Object {
+            "icon": "tw",
+            "link": "https://twitter.com/kammysliwiec",
+          },
+        ],
+        "status": "PUBLISHED",
+        "tagBG": "#ea2845",
+        "twitterUrl": "https://twitter.com/kammysliwiec",
+      },
+      Object {
+        "activities": Object {
+          "talks": Array [
+            Object {
+              "description": "Live-coded audiovisual presentation that will delve into musical notation and visual scores as a  language for human-computer improvisation. What does it mean when an instruction is open-ended rather than precise? How can algorithmic uncertainty open up creative possibilities to improvise using code? Olivia will use javascript to explore a live relationship between code, image, and sound as intertwined creative languages.",
+              "isLightning": null,
+              "slug": "code-notation-score",
+              "timeString": null,
+              "title": "code - notation - score",
+              "track": null,
+            },
+          ],
+        },
+        "avatar": "https://media.graphcms.com/output=format:jpg/resize=fit:crop,height:500,width:500/izWu7SWFQwSdP8wBthcK",
+        "bio": "<p>Programmer and artist who works frequently with open-source software, cartography, live coding, and experimental interfaces. She is the developer of Hydra, a platform for live-coding visuals inspired by analog video synthesis. She works with the performance laboratory ATI-erra, creating interactive visuals for dance and theater. She has also created software and interactive installations for CultureHub Art &#x26; Technology Center, el Museo de Bogotá, and Oakland Museum of California. Originally from San Francisco, she currently lives and works in Bogotá, Colombia.</p>
+",
+        "color": "#ffffff",
+        "company": "Hydra, Colombia",
+        "country": "Colombia",
+        "githubUrl": "https://github.com/ojack",
+        "id": "ck38st939qlbr0b7389hxibkh",
+        "isNightSpeaker": null,
+        "label": "WebGL",
+        "mediumUrl": null,
+        "name": "Olivia Jack",
+        "order": 2,
+        "ownSite": "https://ojack.github.io/",
+        "slug": "olivia-jack",
+        "socials": Array [
+          Object {
+            "icon": "gh",
+            "link": "https://github.com/ojack",
+          },
+          Object {
+            "icon": "tw",
+            "link": "https://twitter.com/_ojack_",
+          },
+          Object {
+            "icon": "site",
+            "link": "https://ojack.github.io/",
+          },
+        ],
+        "status": "PUBLISHED",
+        "tagBG": "#ff7302",
+        "twitterUrl": "https://twitter.com/_ojack_",
+      },
+      Object {
+        "activities": Object {
+          "talks": Array [
+            Object {
+              "description": "After years of hard work from the Modules Team, ESM is shipping in Node.js. In this talk we'll go over the distinct patterns you'll want to use when adopting ESM as a first-class module system in Node.js.",
+              "isLightning": false,
+              "slug": "import-modules-as-esm-from-nodejs",
+              "timeString": null,
+              "title": "import { modules } as esm from “nodejs”",
+              "track": null,
+            },
+          ],
+        },
+        "avatar": "https://media.graphcms.com/output=format:jpg/resize=fit:crop,height:500,width:500/jyad5bupSCe8c8Qj1uYX",
+        "bio": "<p>Member and Chairperson of the Node.js Community Committee, and a contributor to multiple Node.js working groups and initiatives focusing on the continued growth and success of the Node.js community. He is a Regular Member of the OpenJS Foundation Cross-Project Council, and a TC39 delegate. He has been contributing to open-source since he was 16.</p>
+",
+        "color": "#fff",
+        "company": "Microsoft, USA",
+        "country": "USA",
+        "githubUrl": "https://github.com/bnb",
+        "id": "ck38szh6b23ar0b20tqzvzm0f",
+        "isNightSpeaker": null,
+        "label": "NodeJS",
+        "mediumUrl": "https://medium.com/@bitandbang",
+        "name": "Tierney Cyren",
+        "order": 1,
+        "ownSite": null,
+        "slug": "tierney-cyren",
+        "socials": Array [
+          Object {
+            "icon": "gh",
+            "link": "https://github.com/bnb",
+          },
+          Object {
+            "icon": "tw",
+            "link": "https://twitter.com/bitandbang",
+          },
+          Object {
+            "icon": "med",
+            "link": "https://medium.com/@bitandbang",
+          },
+        ],
+        "status": "PUBLISHED",
+        "tagBG": "#7AB464",
+        "twitterUrl": "https://twitter.com/bitandbang",
+      },
+      Object {
+        "activities": Object {},
+        "avatar": "https://media.graphcms.com/output=format:jpg/resize=fit:crop,height:500,width:500/rBzXz8MRwmFwvCWJjkPD",
+        "bio": "<p>Core member of Svelte since 2017.  These days Alan is mostly a JavaScript programmer, the rest of the time he also enjoys hiking, skiing, and listening to music.</p>
+",
+        "color": "#fff",
+        "company": "Core member of Svelte, US",
+        "country": "US",
+        "githubUrl": "https://github.com/Conduitry",
+        "id": "ck5wcjhfif16l0b753eqy3w9r",
+        "isNightSpeaker": null,
+        "label": "Svelte",
+        "mediumUrl": null,
+        "name": " Alan Faubert",
+        "order": null,
+        "ownSite": null,
+        "slug": "alan-faubert",
+        "socials": Array [
+          Object {
+            "icon": "gh",
+            "link": "https://github.com/Conduitry",
+          },
+        ],
+        "status": "PUBLISHED",
+        "tagBG": "#ff5200",
+        "twitterUrl": null,
+      },
+      Object {
+        "activities": Object {},
+        "avatar": "https://media.graphcms.com/output=format:jpg/resize=fit:crop,height:500,width:500/jHnuBGMGQFeFmQqIYV1T",
+        "bio": "<p>Romulo is a Senior Software Architect at Caixabank</p>
+<p>Technology enthusiast, working in Software development and Architectures for more than 10 years. Contributor in Open Source projects, TC39 and blogger in part-time.</p>
+<p>His main goal is to have a more democratic technology and empower developers, teams and companies mostly in the financial sector to build better products. His main focuses are the Web, Mobile and Cloud. He loves and advocates for the future of the internet and decentralised technology culture where all the globe is connected.</p>
+",
+        "color": "#fff",
+        "company": "Caixabank, Spain",
+        "country": "Spain",
+        "githubUrl": "https://github.com/romulocintra",
+        "id": "ck6ap7ezvpr6n0b753q2nkyfv",
+        "isNightSpeaker": null,
+        "label": "PWA",
+        "mediumUrl": null,
+        "name": "Romulo Cintra",
+        "order": null,
+        "ownSite": null,
+        "slug": "romulo-cintra",
+        "socials": Array [
+          Object {
+            "icon": "gh",
+            "link": "https://github.com/romulocintra",
+          },
+          Object {
+            "icon": "tw",
+            "link": "https://twitter.com/romulocintra",
+          },
+        ],
+        "status": "PUBLISHED",
+        "tagBG": "#d400fa",
+        "twitterUrl": "https://twitter.com/romulocintra",
+      },
+    ],
+    "performanceTeam": Array [
+      Object {
+        "activities": Object {},
+        "avatar": "https://media.graphcms.com/output=format:jpg/resize=fit:crop,height:500,width:500/dahQDMISFeJOqjrMXKII",
+        "bio": "<p>An electronic music and audiovisual group from London, established by producer Jack Driscoll and visual artist Alex Kempton in 2016. The visuals in their show have been created entirely in Javascript using WebGL. Polyop have developed a spectacular audiovisual show set in an alternate universe. The show follows a mysterious demi-god across the polyhedral-plane, inhabited by strange planets, entities and nomad aliens, to the sound of 90’s techno breakbeat and acid performed live on hardware synthesisers and drum machines.</p>
+",
+        "company": "WebGL, React, Web Audio API, and Web MIDI API, UK",
+        "country": "UK",
+        "decor": true,
+        "githubUrl": null,
+        "id": "ck409iejwh7280b66z4zwmecf",
+        "mediumUrl": null,
+        "name": "Polyop",
+        "ownSite": null,
+        "slug": "polyop",
+        "socials": Array [
+          Object {
+            "icon": "tw",
+            "link": "https://twitter.com/polyopuk",
+          },
+        ],
+        "twitterUrl": "https://twitter.com/polyopuk",
+      },
+      Object {
+        "activities": Object {},
+        "avatar": "https://media.graphcms.com/output=format:jpg/resize=fit:crop,height:500,width:500/WzjuPUZSvaWQ9TQlPiHw",
+        "bio": "<p>AliceEffekt is formed by Devine Lu Linvega, a true digital nomad and a polymath working on a series of experimental tools and applications. Devine has created a set of live coding tools for rapid iteration and creation of rythms based on Node.js. His latest creation: ORCA is a full blown text based sequencer with impressive cappabilities and distinct aesthetic that engulfs the user in a textual fashion rarely seen in live performance.</p>
+",
+        "company": "Node.js, Japan",
+        "country": "Japan",
+        "decor": true,
+        "githubUrl": null,
+        "id": "ck409n5zch7cx0b66swo5bswb",
+        "mediumUrl": null,
+        "name": "AliceEffekt — ORCA",
+        "ownSite": "https://aliceffekt.bandcamp.com/",
+        "slug": "alice-effekt-orca",
+        "socials": Array [
+          Object {
+            "icon": "tw",
+            "link": "https://twitter.com/neauoire",
+          },
+          Object {
+            "icon": "site",
+            "link": "https://aliceffekt.bandcamp.com/",
+          },
+        ],
+        "twitterUrl": "https://twitter.com/neauoire",
+      },
+    ],
+    "workshops": Array [
+      Object {
+        "activities": Object {
+          "workshops": Array [
+            Object {
+              "slug": "building-web-applications-with-react-aws-amplify",
+              "title": "Building Web Applications with React & AWS Amplify",
+            },
+          ],
+        },
+        "avatar": "https://media.graphcms.com/output=format:jpg/resize=fit:crop,height:500,width:500/J1KtkQdeSmuZnbvtv1P8",
+        "bio": "<p>Web / Mobile / GraphQL enthusiast. DevRel at Amazon AWS. Co-organizer of NYC GraphQL meetup.</p>
+",
+        "company": "AWS, USA",
+        "country": "USA",
+        "githubUrl": "https://github.com/kkemple",
+        "id": "ck10spj7l552h0b710k3pu92r",
+        "mediumUrl": null,
+        "name": "Kurtis Kemple",
+        "ownSite": null,
+        "slug": "kurtis-kemple",
+        "socials": Array [
+          Object {
+            "icon": "gh",
+            "link": "https://github.com/kkemple",
+          },
+          Object {
+            "icon": "tw",
+            "link": "https://twitter.com/kurtiskemple",
+          },
+        ],
+        "talks": Array [],
+        "twitterUrl": "https://twitter.com/kurtiskemple",
+        "workshops": Array [],
+        "workshopsActivity": Array [
+          Object {
+            "slug": "building-web-applications-with-react-aws-amplify",
+            "title": "Building Web Applications with React & AWS Amplify",
+          },
+        ],
+      },
+      Object {
+        "activities": Object {
+          "workshops": Array [
+            Object {
+              "slug": "building-web-applications-with-react-aws-amplify",
+              "title": "Building Web Applications with React & AWS Amplify",
+            },
+          ],
+        },
+        "avatar": "https://media.graphcms.com/output=format:jpg/resize=fit:crop,height:500,width:500/glrjtl9T5awAzyT0DZVd",
+        "bio": "<p>Nader has been developing with React Native for over 2.5 years. He has worked with and trained developers from fortune 500 companies like Amazon, Visa, American Express, and Microsoft, helping them to get up to speed with React Native as quickly as possible.</p>
+",
+        "company": "Amazon AWS, USA",
+        "country": "USA",
+        "githubUrl": "https://github.com/dabit3",
+        "id": "ck60gduudqlr30b75qyumd2is",
+        "mediumUrl": null,
+        "name": "Nader Dabit",
+        "ownSite": null,
+        "slug": "nader-dabit",
+        "socials": Array [
+          Object {
+            "icon": "gh",
+            "link": "https://github.com/dabit3",
+          },
+          Object {
+            "icon": "tw",
+            "link": "https://twitter.com/dabit3",
+          },
+        ],
+        "talks": Array [],
+        "twitterUrl": "https://twitter.com/dabit3",
+        "workshops": Array [],
+        "workshopsActivity": Array [
+          Object {
+            "slug": "building-web-applications-with-react-aws-amplify",
+            "title": "Building Web Applications with React & AWS Amplify",
+          },
+        ],
+      },
+      Object {
+        "activities": Object {
+          "workshops": Array [
+            Object {
+              "slug": "optimize-node-js-applications",
+              "title": "Optimize Node.js Applications",
+            },
+          ],
+        },
+        "avatar": "https://media.graphcms.com/output=format:jpg/resize=fit:crop,height:500,width:500/4LTWaL5SpOCr2oBbS8rq",
+        "bio": "<p>Node.js TSC member, PhD, Technical Director @ NearForm, IoT Expert, Consultant, author of Pino and Fastify. Co-author of the book \\"Node.js Cookbook, Third Edition\\" edited by Packt.</p>
+",
+        "company": "NearForm, Italy",
+        "country": "Italy",
+        "githubUrl": "https://github.com/mcollina",
+        "id": "ck38s6qxa28h90b66plt7e737",
+        "mediumUrl": "http://matteocollina.com/",
+        "name": "Matteo Collina",
+        "ownSite": "",
+        "slug": "matteo-collina",
+        "socials": Array [
+          Object {
+            "icon": "gh",
+            "link": "https://github.com/mcollina",
+          },
+          Object {
+            "icon": "tw",
+            "link": "https://twitter.com/matteocollina",
+          },
+          Object {
+            "icon": "med",
+            "link": "http://matteocollina.com/",
+          },
+        ],
+        "talks": Array [
+          Object {
+            "description": "Promise.all is a fantastic utility to wait for a list of promises to complete. Developers around the globe use it daily in Node.js applications to parallelise tasks and reduce latency. Most of the time, it works as expected. Sometimes, it causes so much memory allocation that it slows your process to a crawl or results in an out-of-memory error. Why? Let's dig in together.",
+            "isLightning": false,
+            "timeString": "",
+            "title": "Beware of Promise.all",
+            "track": null,
+          },
+        ],
+        "twitterUrl": "https://twitter.com/matteocollina",
+        "workshops": Array [],
+        "workshopsActivity": Array [
+          Object {
+            "slug": "optimize-node-js-applications",
+            "title": "Optimize Node.js Applications",
+          },
+        ],
+      },
+      Object {
+        "activities": Object {
+          "workshops": Array [
+            Object {
+              "slug": "type-script-workshop",
+              "title": "TypeScript Workshop",
+            },
+            Object {
+              "slug": "type-script-workshop",
+              "title": "TypeScript Workshop",
+            },
+          ],
+        },
+        "avatar": "https://media.graphcms.com/output=format:jpg/resize=fit:crop,height:500,width:500/FQtqvdGOQsSrpZD1rU4X",
+        "bio": "<p>Tejas enjoys people, code, and talking about code to people. Having begun coding at age 8, today Tejas travels around the world, encouraging, educating and empowering developers in the web development community.</p>
+",
+        "company": "Contiamo, Germany",
+        "country": "Germany",
+        "githubUrl": "https://github.com/TejasQ",
+        "id": "ck10tb7315akt0b71rbhubpkk",
+        "mediumUrl": null,
+        "name": "Tejas Kumar",
+        "ownSite": null,
+        "slug": "tejas-kumar",
+        "socials": Array [
+          Object {
+            "icon": "gh",
+            "link": "https://github.com/TejasQ",
+          },
+          Object {
+            "icon": "tw",
+            "link": "https://twitter.com/tejaskumar_",
+          },
+        ],
+        "talks": Array [],
+        "twitterUrl": "https://twitter.com/tejaskumar_",
+        "workshops": Array [
+          Object {
+            "slug": "type-script-workshop",
+            "title": "TypeScript Workshop",
+          },
+        ],
+        "workshopsActivity": Array [
+          Object {
+            "slug": "type-script-workshop",
+            "title": "TypeScript Workshop",
+          },
+        ],
+      },
+      Object {
+        "activities": Object {
+          "workshops": Array [
+            Object {
+              "slug": "build-full-featured-frontend-app-with-svelte-3h-workshop",
+              "title": "Build Full Featured Frontend App with Svelte (3h Workshop)",
+            },
+          ],
+        },
+        "avatar": "https://media.graphcms.com/output=format:jpg/resize=fit:crop,height:500,width:500/t9XoPJGQUmaXcSvoNSl4",
+        "bio": "<p>Mikhail is a developer with 10 years of expertise building web
+applications. He used a variety of frameworks, throughout his career
+starting with jQuery , AngularJS and Polymer; then he discovered VueJS and used it for several projects. Since 2019 he became a happy user of Svelte v3.
+Besides fullstack development for enterprise companies Mikhail is doing open source projects and <a href=\\"https://github.com/shershen08/conf-talks\\">speaks on meetups and conferences</a> about various topics in modern web development.
+Mikhail runs a local ​<a href=\\"https://www.meetup.com/Amsterdam-SvelteJS/\\">Svelte meetup group in Amsterdam</a>​.</p>
+",
+        "company": "ING, Netherlands",
+        "country": "Netherlands",
+        "githubUrl": "https://github.com/shershen08",
+        "id": "ck5y2i5nshr4s0b6635ypswup",
+        "mediumUrl": null,
+        "name": "Mikhail Kuznetcov",
+        "ownSite": null,
+        "slug": "mikhail-kuznetcov",
+        "socials": Array [
+          Object {
+            "icon": "gh",
+            "link": "https://github.com/shershen08",
+          },
+        ],
+        "talks": Array [],
+        "twitterUrl": null,
+        "workshops": Array [],
+        "workshopsActivity": Array [
+          Object {
+            "slug": "build-full-featured-frontend-app-with-svelte-3h-workshop",
+            "title": "Build Full Featured Frontend App with Svelte (3h Workshop)",
+          },
+        ],
+      },
+      Object {
+        "activities": Object {
+          "workshops": Array [
+            Object {
+              "slug": "build-full-featured-frontend-app-with-svelte-3h-workshop",
+              "title": "Build Full Featured Frontend App with Svelte (3h Workshop)",
+            },
+          ],
+        },
+        "avatar": "https://media.graphcms.com/output=format:jpg/resize=fit:crop,height:500,width:500/4Sy5Yq8jRuWQgvZSghmi",
+        "bio": "<p>Software engineer, team lead, ​<a href=\\"https://github.com/korzio/modern_javascript_frameworks\\">instructor​,</a> mentor, and ​<a href=\\"https://medium.com/@korzio\\">author of technical materials</a>​ in JavaScript, Node, ​<a href=\\"https://github.com/korzio/djv\\">JSON-Schema</a>​, Web Components, TypeScript.</p>
+",
+        "company": "Software Engineer, Netherlands",
+        "country": "Netherlands",
+        "githubUrl": "https://github.com/korzio",
+        "id": "ck66aylon7eiv0b75vu207qwd",
+        "mediumUrl": null,
+        "name": "Alex Korzhikov",
+        "ownSite": null,
+        "slug": "alex-korzhikov",
+        "socials": Array [
+          Object {
+            "icon": "gh",
+            "link": "https://github.com/korzio",
+          },
+        ],
+        "talks": Array [],
+        "twitterUrl": null,
+        "workshops": Array [],
+        "workshopsActivity": Array [
+          Object {
+            "slug": "build-full-featured-frontend-app-with-svelte-3h-workshop",
+            "title": "Build Full Featured Frontend App with Svelte (3h Workshop)",
+          },
+        ],
+      },
+      Object {
+        "activities": Object {
+          "workshops": Array [
+            Object {
+              "slug": "live-coding-visuals-with-hydra-3h-workshop",
+              "title": "Live coding visuals with Hydra (3h Workshop)",
+            },
+          ],
+        },
+        "avatar": "https://media.graphcms.com/output=format:jpg/resize=fit:crop,height:500,width:500/izWu7SWFQwSdP8wBthcK",
+        "bio": "<p>Programmer and artist who works frequently with open-source software, cartography, live coding, and experimental interfaces. She is the developer of Hydra, a platform for live-coding visuals inspired by analog video synthesis. She works with the performance laboratory ATI-erra, creating interactive visuals for dance and theater. She has also created software and interactive installations for CultureHub Art &#x26; Technology Center, el Museo de Bogotá, and Oakland Museum of California. Originally from San Francisco, she currently lives and works in Bogotá, Colombia.</p>
+",
+        "company": "Hydra, Colombia",
+        "country": "Colombia",
+        "githubUrl": "https://github.com/ojack",
+        "id": "ck38sr5k61zu90b329dlbn9ol",
+        "mediumUrl": null,
+        "name": "Olivia Jack",
+        "ownSite": "https://ojack.github.io/",
+        "slug": "olivia-jack",
+        "socials": Array [
+          Object {
+            "icon": "gh",
+            "link": "https://github.com/ojack",
+          },
+          Object {
+            "icon": "tw",
+            "link": "https://twitter.com/_ojack_",
+          },
+          Object {
+            "icon": "site",
+            "link": "https://ojack.github.io/",
+          },
+        ],
+        "talks": Array [
+          Object {
+            "description": "Live-coded audiovisual presentation that will delve into musical notation and visual scores as a  language for human-computer improvisation. What does it mean when an instruction is open-ended rather than precise? How can algorithmic uncertainty open up creative possibilities to improvise using code? Olivia will use javascript to explore a live relationship between code, image, and sound as intertwined creative languages.",
+            "isLightning": null,
+            "timeString": null,
+            "title": "code - notation - score",
+            "track": null,
+          },
+        ],
+        "twitterUrl": "https://twitter.com/_ojack_",
+        "workshops": Array [],
+        "workshopsActivity": Array [
+          Object {
+            "slug": "live-coding-visuals-with-hydra-3h-workshop",
+            "title": "Live coding visuals with Hydra (3h Workshop)",
+          },
+        ],
+      },
+      Object {
+        "activities": Object {
+          "workshops": Array [
+            Object {
+              "slug": "getting-started-with-suspense-and-concurrent-rendering-in-react-3h-workshop",
+              "title": "Getting Started with Suspense and Concurrent Rendering in React (3h Workshop)",
+            },
+          ],
+        },
+        "avatar": "https://media.graphcms.com/output=format:jpg/resize=fit:crop,height:500,width:500/CgqbTtCjTxyCgI04TDNA",
+        "bio": "<p>Maurice de Beijer is an independent software consultant and trainer. He specializes in JavaScript, React, and <a href=\\"http://asp.net/\\">ASP.NET Core</a>. His work includes a large, global, safety application for the oil and gas industry. Maurice is also active in the open source community. He teaches ECMAScript, TypeScript, React, RxJS and <a href=\\"http://asp.net/\\">ASP.NET</a> courses. Since 2005, he has received Microsoft’s Yearly Most Valuable Professional Award. Maurice is also active in the Dutch dotNed user group and helps organize its meetings.</p>
+",
+        "company": "Independent Software Consultant and Trainer, Netherlands",
+        "country": "Netherlands",
+        "githubUrl": null,
+        "id": "ck69gn2zbk5t30b75bqs18o5e",
+        "mediumUrl": null,
+        "name": " Maurice de Beijer",
+        "ownSite": null,
+        "slug": "maurice-de-beijer",
+        "socials": Array [],
+        "talks": Array [],
+        "twitterUrl": null,
+        "workshops": Array [],
+        "workshopsActivity": Array [
+          Object {
+            "slug": "getting-started-with-suspense-and-concurrent-rendering-in-react-3h-workshop",
+            "title": "Getting Started with Suspense and Concurrent Rendering in React (3h Workshop)",
+          },
+        ],
+      },
+      Object {
+        "activities": Object {
+          "workshops": Array [
+            Object {
+              "slug": "graph-ql-by-hackages-3h-workshop",
+              "title": "GraphQL by Hackages (3h Workshop)",
+            },
+          ],
+        },
+        "avatar": "https://media.graphcms.com/output=format:jpg/resize=fit:crop,height:500,width:500/YqQpi8feQkinhxSw8HyW",
+        "bio": "<p>Corentin is an Open Source Engineer, where he has been working mostly with JavaScript and especially with ReactJS. He's very interested in topics such as GraphQL, and OCaml/ReasonML. One of his favourite hobbies is to learn new technologies/concepts and when possible participate to open source project and to share what he has learnt.</p>
+<p>At Hackages, he has assisted in JavaScript formal trainings, built and run workshops on React, React Native, TypeScript and GraphQL and acted as a consultant with international companies including BIL and Supply Stack.</p>
+",
+        "company": "Hackages, Belgium",
+        "country": "Belgium",
+        "githubUrl": "https://github.com/tatchi",
+        "id": "ck69g37nnjwrj0b75vqmovjz8",
+        "mediumUrl": null,
+        "name": "Corentin Leruth",
+        "ownSite": null,
+        "slug": "corentin-leruth",
+        "socials": Array [
+          Object {
+            "icon": "gh",
+            "link": "https://github.com/tatchi",
+          },
+          Object {
+            "icon": "tw",
+            "link": "https://twitter.com/_tatchi",
+          },
+        ],
+        "talks": Array [],
+        "twitterUrl": "https://twitter.com/_tatchi",
+        "workshops": Array [],
+        "workshopsActivity": Array [
+          Object {
+            "slug": "graph-ql-by-hackages-3h-workshop",
+            "title": "GraphQL by Hackages (3h Workshop)",
+          },
+        ],
+      },
+    ],
+  },
+  "speakersBtn": "CALL FOR SPEAKERS",
+  "sponsors": Array [
+    Object {
+      "list": Array [
+        Object {
+          "alt": "Amazon Web Service",
+          "category": "Gold",
+          "img": "https://media.graphcms.com/6KScm7b5Qjmm4Q4V2RM0",
+          "link": "https://aws.amazon.com/",
+          "width": 300,
+        },
+        Object {
+          "alt": "FocusReactive",
+          "category": "Gold",
+          "img": "https://media.graphcms.com/4nC2yx5Tem996iOkkVFg",
+          "link": "https://focusreactive.com",
+          "width": null,
+        },
+        Object {
+          "alt": "Reaktor",
+          "category": "Gold",
+          "img": "https://media.graphcms.com/vCP0HfPuQYKBLKXH0f3Z",
+          "link": "https://www.reaktor.com/",
+          "width": null,
+        },
+      ],
+      "mod": "logos_md",
+      "title": "Gold",
+    },
+    Object {
+      "list": Array [
+        Object {
+          "alt": "Interlink",
+          "category": "Silver",
+          "img": "https://media.graphcms.com/FzW7msiJRGeOBdX4WwUZ",
+          "link": "https://www.interlink.paris",
+          "width": 200,
+        },
+      ],
+      "mod": "logos_sm",
+      "title": "Silver",
+    },
+    Object {
+      "list": Array [
+        Object {
+          "alt": "wwcode-vancouver",
+          "category": "Partner",
+          "img": "https://media.graphcms.com/ZqdXyujWTbW87j3pNrPx",
+          "link": "https://www.womenwhocode.com/vancouver",
+          "width": 150,
+        },
+        Object {
+          "alt": "Piter JS",
+          "category": "Partner",
+          "img": "https://media.graphcms.com/csIAGp4IQuGiKEeoVK3p",
+          "link": "https://piterjs.dev",
+          "width": 100,
+        },
+        Object {
+          "alt": "seattlejs",
+          "category": "Partner",
+          "img": "https://media.graphcms.com/AJGaUGQ8Q6e2AoMm0XDB",
+          "link": "http://seattlejs.com/",
+          "width": 100,
+        },
+        Object {
+          "alt": "FrontEndgineersLondon",
+          "category": "Partner",
+          "img": "https://media.graphcms.com/wM833hCvTBKj0ko1pTem",
+          "link": "https://www.meetup.com/Front-Endgineers-London/",
+          "width": 100,
+        },
+        Object {
+          "alt": "react-sofia",
+          "category": "Partner",
+          "img": "https://media.graphcms.com/WB25K24IQHSJida7w4z8",
+          "link": "http://react-not-a-conf.com/",
+          "width": 100,
+        },
+        Object {
+          "alt": "leedsjs",
+          "category": "Partner",
+          "img": "https://media.graphcms.com/s96i5NRXKpieSKr3f9nw",
+          "link": "https://leedsjs.com/",
+          "width": 100,
+        },
+        Object {
+          "alt": "milanojs",
+          "category": "Partner",
+          "img": "https://media.graphcms.com/ay3eG9mETASoVTr57UUu",
+          "link": "https://milanojs.com",
+          "width": 100,
+        },
+        Object {
+          "alt": "VueJS-Oslo",
+          "category": "Partner",
+          "img": "https://media.graphcms.com/aMnMNwrRDWve2sjtdeiI",
+          "link": "https://www.meetup.com/VueJS-Oslo/",
+          "width": 100,
+        },
+        Object {
+          "alt": "MobileOslo",
+          "category": "Partner",
+          "img": "https://media.graphcms.com/twr9AMM9SGSIB3LGGUhA",
+          "link": "https://www.meetup.com/Mobile-Meetup-Oslo/",
+          "width": 100,
+        },
+        Object {
+          "alt": "Oslo-Flutter-Dart-Meetup",
+          "category": "Partner",
+          "img": "https://media.graphcms.com/dwfDUbf4RLGYQJHcOfQC",
+          "link": "https://www.meetup.com/Oslo-Flutter-Dart-Meetup/",
+          "width": 100,
+        },
+        Object {
+          "alt": "Framsia",
+          "category": "Partner",
+          "img": "https://media.graphcms.com/B0avSOhLTimtCCx4ZrQ1",
+          "link": "https://www.meetup.com/framsia/",
+          "width": 70,
+        },
+        Object {
+          "alt": "AngularJS-Oslo",
+          "category": "Partner",
+          "img": "https://media.graphcms.com/KKxpZi5zQeeoI3649vKk",
+          "link": "https://www.meetup.com/AngularJS-Oslo/",
+          "width": 100,
+        },
+        Object {
+          "alt": "SkopjeFrontEnd",
+          "category": "Partner",
+          "img": "https://media.graphcms.com/NakR6RFRSymJjvpvjcUt",
+          "link": "https://www.meetup.com/Skopje-Front-End-Meetup/",
+          "width": 100,
+        },
+        Object {
+          "alt": "UtrechtJUG",
+          "category": "Partner",
+          "img": "https://media.graphcms.com/dyJ3m0rcRgWNXNYUnqdY",
+          "link": "https://www.meetup.com/Utrecht-Java-User-Group/",
+          "width": 100,
+        },
+        Object {
+          "alt": "rsconf",
+          "category": "Partner",
+          "img": "https://media.graphcms.com/cQWzZoDsQqOuujSQHQ7b",
+          "link": "https://rsconf.by",
+          "width": 100,
+        },
+        Object {
+          "alt": "Webstandards",
+          "category": "Partner",
+          "img": "https://media.graphcms.com/n5XbzuQGbGlem0q6Q5wW",
+          "link": "https://twitter.com/webstandards_ru",
+          "width": 100,
+        },
+        Object {
+          "alt": "kcwomenintech",
+          "category": "Partner",
+          "img": "https://media.graphcms.com/tPDy3EA8TDuO0nnM5FEx",
+          "link": "https://kcwomenintech.org/",
+          "width": 40,
+        },
+        Object {
+          "alt": "Dublin Node.js",
+          "category": "Partner",
+          "img": "https://media.graphcms.com/Ed7nv4qRaaXBV2Oouutg",
+          "link": "https://www.meetup.com/Dublin-Node-js-Meetup/",
+          "width": 40,
+        },
+        Object {
+          "alt": "React GraphQL Academy",
+          "category": "Partner",
+          "img": "https://media.graphcms.com/9dC4KF0QXiklgK8u5aaf",
+          "link": "https://reactgraphql.academy/",
+          "width": 70,
+        },
+        Object {
+          "alt": "Nodetlv",
+          "category": "Partner",
+          "img": "https://media.graphcms.com/4s9W6dOITVWZ9hjlR4P4",
+          "link": "https://www.nodetlv.com/",
+          "width": 120,
+        },
+        Object {
+          "alt": "ReactNext",
+          "category": "Partner",
+          "img": "https://media.graphcms.com/pV29a4DROuUNDTMJzu1Q",
+          "link": "http://react-next.com/",
+          "width": 100,
+        },
+        Object {
+          "alt": "ReactWeek",
+          "category": "Partner",
+          "img": "https://media.graphcms.com/DYhwRSsHR1W1FEwdsF6a",
+          "link": "http://reactweek.nyc/",
+          "width": 70,
+        },
+        Object {
+          "alt": "InfinumJSTalks",
+          "category": "Partner",
+          "img": "https://media.graphcms.com/Z55PEVXQS8CyZafNpi1F",
+          "link": "https://www.meetup.com/Infinum-JS-Talks/",
+          "width": 80,
+        },
+        Object {
+          "alt": "FullstackCluj",
+          "category": "Partner",
+          "img": "https://media.graphcms.com/uT5HJdE3Tn2FMoM1ODKY",
+          "link": "https://www.meetup.com/fullstack-cluj/",
+          "width": 120,
+        },
+        Object {
+          "alt": "AmsNode",
+          "category": "Partner",
+          "img": "https://media.graphcms.com/0L3yoJJtQmqObSqXbQbw",
+          "link": "https://www.meetup.com/amsnode/",
+          "width": 100,
+        },
+        Object {
+          "alt": "Tproger",
+          "category": "Partner",
+          "img": "https://media.graphcms.com/4NezSgfrQdO2NTbE1SWu",
+          "link": "https://tproger.ru/",
+          "width": 100,
+        },
+      ],
+      "mod": "logos_xs",
+      "title": "Partner",
+    },
+  ],
+  "talks": Array [
+    Object {
+      "description": "There is a lot of talk about Reactivity in the frontend landscape of late, but what is it? And how does Vue use reactive premises to manage state in an application? In this talk, we'll go over what reactivity is in general, and how that applies to the upcoming changes in Vue 3. We'll cover proxies, the virtual DOM, and watchers along the way.",
+      "from": "Netlify, USA",
+      "label": "Ecosystem",
+      "name": "Sarah Drasner",
+      "place": "Netlify, USA",
+      "slug": "an-animated-guide-to-vue-3-reactivity-and-internals",
+      "speaker": "Sarah Drasner",
+      "speakerSlug": "sarah-drasner",
+      "text": "There is a lot of talk about Reactivity in the frontend landscape of late, but what is it? And how does Vue use reactive premises to manage state in an application? In this talk, we'll go over what reactivity is in general, and how that applies to the upcoming changes in Vue 3. We'll cover proxies, the virtual DOM, and watchers along the way.",
+      "time": "",
+      "title": "An Animated Guide to Vue 3 Reactivity and Internals",
+      "track": "General",
+    },
+    Object {
+      "description": null,
+      "from": "Webpack, Germany",
+      "label": "Ecosystem",
+      "name": "Tobias Koppers",
+      "place": "Webpack, Germany",
+      "slug": "webpack-5-build-caching-to-cache-or-not-to-cache",
+      "speaker": "Tobias Koppers",
+      "speakerSlug": "tobias-koppers",
+      "text": null,
+      "time": "",
+      "title": "Webpack 5 Build Caching. \\"To cache or not to cache\\"",
+      "track": null,
+    },
+    Object {
+      "description": "TypeScript continues its growth journey and is slowly taking over JavaScript world. Types inference, powerful expressivity, strict compile-time checks, all these features make building complex JavaScript apps a breeze. In this session, you will see how TypeScript’s hidden features helped us to build NestJS, the fastest growing Node.js technology in 2019.",
+      "from": "NestJS | Trilon.io, Poland",
+      "label": "NestJS",
+      "name": "Kamil Mysliwiec",
+      "place": "NestJS | Trilon.io, Poland",
+      "slug": "unlocking-new-capabilities-for-node-js-with-type-script-and-nest-js",
+      "speaker": "Kamil Mysliwiec",
+      "speakerSlug": "kamil-mysliwiec",
+      "text": "TypeScript continues its growth journey and is slowly taking over JavaScript world. Types inference, powerful expressivity, strict compile-time checks, all these features make building complex JavaScript apps a breeze. In this session, you will see how TypeScript’s hidden features helped us to build NestJS, the fastest growing Node.js technology in 2019.",
+      "time": "",
+      "title": "Unlocking New Capabilities for Node.js with TypeScript and NestJS",
+      "track": null,
+    },
+    Object {
+      "description": "Promise.all is a fantastic utility to wait for a list of promises to complete. Developers around the globe use it daily in Node.js applications to parallelise tasks and reduce latency. Most of the time, it works as expected. Sometimes, it causes so much memory allocation that it slows your process to a crawl or results in an out-of-memory error. Why? Let's dig in together.",
+      "from": "NearForm, Italy",
+      "label": "NodeJS",
+      "name": "Matteo Collina",
+      "place": "NearForm, Italy",
+      "slug": "beware-of-promise-all",
+      "speaker": "Matteo Collina",
+      "speakerSlug": "matteo-collina",
+      "text": "Promise.all is a fantastic utility to wait for a list of promises to complete. Developers around the globe use it daily in Node.js applications to parallelise tasks and reduce latency. Most of the time, it works as expected. Sometimes, it causes so much memory allocation that it slows your process to a crawl or results in an out-of-memory error. Why? Let's dig in together.",
+      "time": "",
+      "title": "Beware of Promise.all",
+      "track": null,
+    },
+    Object {
+      "description": null,
+      "from": "Three.js, Spain",
+      "label": "WebGL",
+      "name": "Mr.doob",
+      "place": "Three.js, Spain",
+      "slug": "fake-title-it-just-a-template",
+      "speaker": "Mr.doob",
+      "speakerSlug": "mr-doob",
+      "text": null,
+      "time": "14:45",
+      "title": "Fake Title it just a template",
+      "track": "General",
+    },
+    Object {
+      "description": "There are stats coming out that in 2020 about 50% of all JavaScript projects using npm will be using TypeScript, how did this come to be and what systems are in place to keep the TypeScript team in Microsoft from trying to extinguish JavaScript?",
+      "from": "Microsoft, USA",
+      "label": "TypeScript",
+      "name": "Orta Therox",
+      "place": "Microsoft, USA",
+      "slug": "how-type-script-embraces-and-extends-java-script",
+      "speaker": "Orta Therox",
+      "speakerSlug": "orta-therox",
+      "text": "There are stats coming out that in 2020 about 50% of all JavaScript projects using npm will be using TypeScript, how did this come to be and what systems are in place to keep the TypeScript team in Microsoft from trying to extinguish JavaScript?",
+      "time": null,
+      "title": "How TypeScript embraces and extends JavaScript",
+      "track": null,
+    },
+    Object {
+      "description": "After years of hard work from the Modules Team, ESM is shipping in Node.js. In this talk we'll go over the distinct patterns you'll want to use when adopting ESM as a first-class module system in Node.js.",
+      "from": "Microsoft, USA",
+      "label": "NodeJS",
+      "name": "Tierney Cyren",
+      "place": "Microsoft, USA",
+      "slug": "import-modules-as-esm-from-nodejs",
+      "speaker": "Tierney Cyren",
+      "speakerSlug": "tierney-cyren",
+      "text": "After years of hard work from the Modules Team, ESM is shipping in Node.js. In this talk we'll go over the distinct patterns you'll want to use when adopting ESM as a first-class module system in Node.js.",
+      "time": null,
+      "title": "import { modules } as esm from “nodejs”",
+      "track": null,
+    },
+    Object {
+      "description": "Dive into the world of decentralized data structures and learn how these open up new paths to JavaScript that can run anywhere, from anywhere, without a compiler.",
+      "from": "Protocol Labs, USA",
+      "label": "NodeJS",
+      "name": "Mikeal Rogers",
+      "place": "Protocol Labs, USA",
+      "slug": "decentralized-universal-java-script",
+      "speaker": "Mikeal Rogers",
+      "speakerSlug": "mikeal-rogers",
+      "text": "Dive into the world of decentralized data structures and learn how these open up new paths to JavaScript that can run anywhere, from anywhere, without a compiler.",
+      "time": null,
+      "title": "Decentralized Universal JavaScript",
+      "track": null,
+    },
+    Object {
+      "description": "Live-coded audiovisual presentation that will delve into musical notation and visual scores as a  language for human-computer improvisation. What does it mean when an instruction is open-ended rather than precise? How can algorithmic uncertainty open up creative possibilities to improvise using code? Olivia will use javascript to explore a live relationship between code, image, and sound as intertwined creative languages.",
+      "from": "Hydra, Colombia",
+      "label": "WebGL",
+      "name": "Olivia Jack",
+      "place": "Hydra, Colombia",
+      "slug": "code-notation-score",
+      "speaker": "Olivia Jack",
+      "speakerSlug": "olivia-jack",
+      "text": "Live-coded audiovisual presentation that will delve into musical notation and visual scores as a  language for human-computer improvisation. What does it mean when an instruction is open-ended rather than precise? How can algorithmic uncertainty open up creative possibilities to improvise using code? Olivia will use javascript to explore a live relationship between code, image, and sound as intertwined creative languages.",
+      "time": null,
+      "title": "code - notation - score",
+      "track": null,
+    },
+  ],
+  "tracks": Array [
+    "General",
+  ],
+  "trainers": Array [
+    Object {
+      "activities": Object {
+        "workshops": Array [
+          Object {
+            "slug": "building-web-applications-with-react-aws-amplify",
+            "title": "Building Web Applications with React & AWS Amplify",
+          },
+        ],
+      },
+      "avatar": "https://media.graphcms.com/output=format:jpg/resize=fit:crop,height:500,width:500/J1KtkQdeSmuZnbvtv1P8",
+      "bio": "<p>Web / Mobile / GraphQL enthusiast. DevRel at Amazon AWS. Co-organizer of NYC GraphQL meetup.</p>
+",
+      "company": "AWS, USA",
+      "country": "USA",
+      "githubUrl": "https://github.com/kkemple",
+      "id": "ck10spj7l552h0b710k3pu92r",
+      "mediumUrl": null,
+      "name": "Kurtis Kemple",
+      "ownSite": null,
+      "slug": "kurtis-kemple",
+      "socials": Array [
+        Object {
+          "icon": "gh",
+          "link": "https://github.com/kkemple",
+        },
+        Object {
+          "icon": "tw",
+          "link": "https://twitter.com/kurtiskemple",
+        },
+      ],
+      "talks": Array [],
+      "twitterUrl": "https://twitter.com/kurtiskemple",
+      "workshops": Array [],
+      "workshopsActivity": Array [
+        Object {
+          "slug": "building-web-applications-with-react-aws-amplify",
+          "title": "Building Web Applications with React & AWS Amplify",
+        },
+      ],
+    },
+    Object {
+      "activities": Object {
+        "workshops": Array [
+          Object {
+            "slug": "building-web-applications-with-react-aws-amplify",
+            "title": "Building Web Applications with React & AWS Amplify",
+          },
+        ],
+      },
+      "avatar": "https://media.graphcms.com/output=format:jpg/resize=fit:crop,height:500,width:500/glrjtl9T5awAzyT0DZVd",
+      "bio": "<p>Nader has been developing with React Native for over 2.5 years. He has worked with and trained developers from fortune 500 companies like Amazon, Visa, American Express, and Microsoft, helping them to get up to speed with React Native as quickly as possible.</p>
+",
+      "company": "Amazon AWS, USA",
+      "country": "USA",
+      "githubUrl": "https://github.com/dabit3",
+      "id": "ck60gduudqlr30b75qyumd2is",
+      "mediumUrl": null,
+      "name": "Nader Dabit",
+      "ownSite": null,
+      "slug": "nader-dabit",
+      "socials": Array [
+        Object {
+          "icon": "gh",
+          "link": "https://github.com/dabit3",
+        },
+        Object {
+          "icon": "tw",
+          "link": "https://twitter.com/dabit3",
+        },
+      ],
+      "talks": Array [],
+      "twitterUrl": "https://twitter.com/dabit3",
+      "workshops": Array [],
+      "workshopsActivity": Array [
+        Object {
+          "slug": "building-web-applications-with-react-aws-amplify",
+          "title": "Building Web Applications with React & AWS Amplify",
+        },
+      ],
+    },
+    Object {
+      "activities": Object {
+        "workshops": Array [
+          Object {
+            "slug": "optimize-node-js-applications",
+            "title": "Optimize Node.js Applications",
+          },
+        ],
+      },
+      "avatar": "https://media.graphcms.com/output=format:jpg/resize=fit:crop,height:500,width:500/4LTWaL5SpOCr2oBbS8rq",
+      "bio": "<p>Node.js TSC member, PhD, Technical Director @ NearForm, IoT Expert, Consultant, author of Pino and Fastify. Co-author of the book \\"Node.js Cookbook, Third Edition\\" edited by Packt.</p>
+",
+      "company": "NearForm, Italy",
+      "country": "Italy",
+      "githubUrl": "https://github.com/mcollina",
+      "id": "ck38s6qxa28h90b66plt7e737",
+      "mediumUrl": "http://matteocollina.com/",
+      "name": "Matteo Collina",
+      "ownSite": "",
+      "slug": "matteo-collina",
+      "socials": Array [
+        Object {
+          "icon": "gh",
+          "link": "https://github.com/mcollina",
+        },
+        Object {
+          "icon": "tw",
+          "link": "https://twitter.com/matteocollina",
+        },
+        Object {
+          "icon": "med",
+          "link": "http://matteocollina.com/",
+        },
+      ],
+      "talks": Array [
+        Object {
+          "description": "Promise.all is a fantastic utility to wait for a list of promises to complete. Developers around the globe use it daily in Node.js applications to parallelise tasks and reduce latency. Most of the time, it works as expected. Sometimes, it causes so much memory allocation that it slows your process to a crawl or results in an out-of-memory error. Why? Let's dig in together.",
+          "isLightning": false,
+          "timeString": "",
+          "title": "Beware of Promise.all",
+          "track": null,
+        },
+      ],
+      "twitterUrl": "https://twitter.com/matteocollina",
+      "workshops": Array [],
+      "workshopsActivity": Array [
+        Object {
+          "slug": "optimize-node-js-applications",
+          "title": "Optimize Node.js Applications",
+        },
+      ],
+    },
+    Object {
+      "activities": Object {
+        "workshops": Array [
+          Object {
+            "slug": "type-script-workshop",
+            "title": "TypeScript Workshop",
+          },
+          Object {
+            "slug": "type-script-workshop",
+            "title": "TypeScript Workshop",
+          },
+        ],
+      },
+      "avatar": "https://media.graphcms.com/output=format:jpg/resize=fit:crop,height:500,width:500/FQtqvdGOQsSrpZD1rU4X",
+      "bio": "<p>Tejas enjoys people, code, and talking about code to people. Having begun coding at age 8, today Tejas travels around the world, encouraging, educating and empowering developers in the web development community.</p>
+",
+      "company": "Contiamo, Germany",
+      "country": "Germany",
+      "githubUrl": "https://github.com/TejasQ",
+      "id": "ck10tb7315akt0b71rbhubpkk",
+      "mediumUrl": null,
+      "name": "Tejas Kumar",
+      "ownSite": null,
+      "slug": "tejas-kumar",
+      "socials": Array [
+        Object {
+          "icon": "gh",
+          "link": "https://github.com/TejasQ",
+        },
+        Object {
+          "icon": "tw",
+          "link": "https://twitter.com/tejaskumar_",
+        },
+      ],
+      "talks": Array [],
+      "twitterUrl": "https://twitter.com/tejaskumar_",
+      "workshops": Array [
+        Object {
+          "slug": "type-script-workshop",
+          "title": "TypeScript Workshop",
+        },
+      ],
+      "workshopsActivity": Array [
+        Object {
+          "slug": "type-script-workshop",
+          "title": "TypeScript Workshop",
+        },
+      ],
+    },
+    Object {
+      "activities": Object {
+        "workshops": Array [
+          Object {
+            "slug": "build-full-featured-frontend-app-with-svelte-3h-workshop",
+            "title": "Build Full Featured Frontend App with Svelte (3h Workshop)",
+          },
+        ],
+      },
+      "avatar": "https://media.graphcms.com/output=format:jpg/resize=fit:crop,height:500,width:500/t9XoPJGQUmaXcSvoNSl4",
+      "bio": "<p>Mikhail is a developer with 10 years of expertise building web
+applications. He used a variety of frameworks, throughout his career
+starting with jQuery , AngularJS and Polymer; then he discovered VueJS and used it for several projects. Since 2019 he became a happy user of Svelte v3.
+Besides fullstack development for enterprise companies Mikhail is doing open source projects and <a href=\\"https://github.com/shershen08/conf-talks\\">speaks on meetups and conferences</a> about various topics in modern web development.
+Mikhail runs a local ​<a href=\\"https://www.meetup.com/Amsterdam-SvelteJS/\\">Svelte meetup group in Amsterdam</a>​.</p>
+",
+      "company": "ING, Netherlands",
+      "country": "Netherlands",
+      "githubUrl": "https://github.com/shershen08",
+      "id": "ck5y2i5nshr4s0b6635ypswup",
+      "mediumUrl": null,
+      "name": "Mikhail Kuznetcov",
+      "ownSite": null,
+      "slug": "mikhail-kuznetcov",
+      "socials": Array [
+        Object {
+          "icon": "gh",
+          "link": "https://github.com/shershen08",
+        },
+      ],
+      "talks": Array [],
+      "twitterUrl": null,
+      "workshops": Array [],
+      "workshopsActivity": Array [
+        Object {
+          "slug": "build-full-featured-frontend-app-with-svelte-3h-workshop",
+          "title": "Build Full Featured Frontend App with Svelte (3h Workshop)",
+        },
+      ],
+    },
+    Object {
+      "activities": Object {
+        "workshops": Array [
+          Object {
+            "slug": "build-full-featured-frontend-app-with-svelte-3h-workshop",
+            "title": "Build Full Featured Frontend App with Svelte (3h Workshop)",
+          },
+        ],
+      },
+      "avatar": "https://media.graphcms.com/output=format:jpg/resize=fit:crop,height:500,width:500/4Sy5Yq8jRuWQgvZSghmi",
+      "bio": "<p>Software engineer, team lead, ​<a href=\\"https://github.com/korzio/modern_javascript_frameworks\\">instructor​,</a> mentor, and ​<a href=\\"https://medium.com/@korzio\\">author of technical materials</a>​ in JavaScript, Node, ​<a href=\\"https://github.com/korzio/djv\\">JSON-Schema</a>​, Web Components, TypeScript.</p>
+",
+      "company": "Software Engineer, Netherlands",
+      "country": "Netherlands",
+      "githubUrl": "https://github.com/korzio",
+      "id": "ck66aylon7eiv0b75vu207qwd",
+      "mediumUrl": null,
+      "name": "Alex Korzhikov",
+      "ownSite": null,
+      "slug": "alex-korzhikov",
+      "socials": Array [
+        Object {
+          "icon": "gh",
+          "link": "https://github.com/korzio",
+        },
+      ],
+      "talks": Array [],
+      "twitterUrl": null,
+      "workshops": Array [],
+      "workshopsActivity": Array [
+        Object {
+          "slug": "build-full-featured-frontend-app-with-svelte-3h-workshop",
+          "title": "Build Full Featured Frontend App with Svelte (3h Workshop)",
+        },
+      ],
+    },
+    Object {
+      "activities": Object {
+        "workshops": Array [
+          Object {
+            "slug": "live-coding-visuals-with-hydra-3h-workshop",
+            "title": "Live coding visuals with Hydra (3h Workshop)",
+          },
+        ],
+      },
+      "avatar": "https://media.graphcms.com/output=format:jpg/resize=fit:crop,height:500,width:500/izWu7SWFQwSdP8wBthcK",
+      "bio": "<p>Programmer and artist who works frequently with open-source software, cartography, live coding, and experimental interfaces. She is the developer of Hydra, a platform for live-coding visuals inspired by analog video synthesis. She works with the performance laboratory ATI-erra, creating interactive visuals for dance and theater. She has also created software and interactive installations for CultureHub Art &#x26; Technology Center, el Museo de Bogotá, and Oakland Museum of California. Originally from San Francisco, she currently lives and works in Bogotá, Colombia.</p>
+",
+      "company": "Hydra, Colombia",
+      "country": "Colombia",
+      "githubUrl": "https://github.com/ojack",
+      "id": "ck38sr5k61zu90b329dlbn9ol",
+      "mediumUrl": null,
+      "name": "Olivia Jack",
+      "ownSite": "https://ojack.github.io/",
+      "slug": "olivia-jack",
+      "socials": Array [
+        Object {
+          "icon": "gh",
+          "link": "https://github.com/ojack",
+        },
+        Object {
+          "icon": "tw",
+          "link": "https://twitter.com/_ojack_",
+        },
+        Object {
+          "icon": "site",
+          "link": "https://ojack.github.io/",
+        },
+      ],
+      "talks": Array [
+        Object {
+          "description": "Live-coded audiovisual presentation that will delve into musical notation and visual scores as a  language for human-computer improvisation. What does it mean when an instruction is open-ended rather than precise? How can algorithmic uncertainty open up creative possibilities to improvise using code? Olivia will use javascript to explore a live relationship between code, image, and sound as intertwined creative languages.",
+          "isLightning": null,
+          "timeString": null,
+          "title": "code - notation - score",
+          "track": null,
+        },
+      ],
+      "twitterUrl": "https://twitter.com/_ojack_",
+      "workshops": Array [],
+      "workshopsActivity": Array [
+        Object {
+          "slug": "live-coding-visuals-with-hydra-3h-workshop",
+          "title": "Live coding visuals with Hydra (3h Workshop)",
+        },
+      ],
+    },
+    Object {
+      "activities": Object {
+        "workshops": Array [
+          Object {
+            "slug": "getting-started-with-suspense-and-concurrent-rendering-in-react-3h-workshop",
+            "title": "Getting Started with Suspense and Concurrent Rendering in React (3h Workshop)",
+          },
+        ],
+      },
+      "avatar": "https://media.graphcms.com/output=format:jpg/resize=fit:crop,height:500,width:500/CgqbTtCjTxyCgI04TDNA",
+      "bio": "<p>Maurice de Beijer is an independent software consultant and trainer. He specializes in JavaScript, React, and <a href=\\"http://asp.net/\\">ASP.NET Core</a>. His work includes a large, global, safety application for the oil and gas industry. Maurice is also active in the open source community. He teaches ECMAScript, TypeScript, React, RxJS and <a href=\\"http://asp.net/\\">ASP.NET</a> courses. Since 2005, he has received Microsoft’s Yearly Most Valuable Professional Award. Maurice is also active in the Dutch dotNed user group and helps organize its meetings.</p>
+",
+      "company": "Independent Software Consultant and Trainer, Netherlands",
+      "country": "Netherlands",
+      "githubUrl": null,
+      "id": "ck69gn2zbk5t30b75bqs18o5e",
+      "mediumUrl": null,
+      "name": " Maurice de Beijer",
+      "ownSite": null,
+      "slug": "maurice-de-beijer",
+      "socials": Array [],
+      "talks": Array [],
+      "twitterUrl": null,
+      "workshops": Array [],
+      "workshopsActivity": Array [
+        Object {
+          "slug": "getting-started-with-suspense-and-concurrent-rendering-in-react-3h-workshop",
+          "title": "Getting Started with Suspense and Concurrent Rendering in React (3h Workshop)",
+        },
+      ],
+    },
+    Object {
+      "activities": Object {
+        "workshops": Array [
+          Object {
+            "slug": "graph-ql-by-hackages-3h-workshop",
+            "title": "GraphQL by Hackages (3h Workshop)",
+          },
+        ],
+      },
+      "avatar": "https://media.graphcms.com/output=format:jpg/resize=fit:crop,height:500,width:500/YqQpi8feQkinhxSw8HyW",
+      "bio": "<p>Corentin is an Open Source Engineer, where he has been working mostly with JavaScript and especially with ReactJS. He's very interested in topics such as GraphQL, and OCaml/ReasonML. One of his favourite hobbies is to learn new technologies/concepts and when possible participate to open source project and to share what he has learnt.</p>
+<p>At Hackages, he has assisted in JavaScript formal trainings, built and run workshops on React, React Native, TypeScript and GraphQL and acted as a consultant with international companies including BIL and Supply Stack.</p>
+",
+      "company": "Hackages, Belgium",
+      "country": "Belgium",
+      "githubUrl": "https://github.com/tatchi",
+      "id": "ck69g37nnjwrj0b75vqmovjz8",
+      "mediumUrl": null,
+      "name": "Corentin Leruth",
+      "ownSite": null,
+      "slug": "corentin-leruth",
+      "socials": Array [
+        Object {
+          "icon": "gh",
+          "link": "https://github.com/tatchi",
+        },
+        Object {
+          "icon": "tw",
+          "link": "https://twitter.com/_tatchi",
+        },
+      ],
+      "talks": Array [],
+      "twitterUrl": "https://twitter.com/_tatchi",
+      "workshops": Array [],
+      "workshopsActivity": Array [
+        Object {
+          "slug": "graph-ql-by-hackages-3h-workshop",
+          "title": "GraphQL by Hackages (3h Workshop)",
+        },
+      ],
+    },
+  ],
+  "workshops": Array [
+    Object {
+      "additionalInfo": null,
+      "code": "ws-aws",
+      "content": Array [],
+      "date": "2020-06-03T00:00:00.000Z",
+      "dateString": "June, 3",
+      "description": "<p>In this workshop we'll learn how to build cloud-enabled web applications with React &#x26; AWS Amplify.</p>
+",
+      "duration": "8",
+      "finishingTime": "",
+      "id": "ck5zpbea0kfyw0b20qg0nh6qc",
+      "level": "Intermediate Javascript developers.",
+      "location": "<p><a href=\\"https://goo.gl/maps/iDV2dUZTmR1zoj8eA\\">RAI</a></p>
+",
+      "prerequisites": null,
+      "schedule": Object {
+        "ending": "17:00",
+        "starting": "9:00",
+      },
+      "slogan": null,
+      "slug": "building-web-applications-with-react-aws-amplify",
+      "speaker": Object {
+        "info": Array [],
+      },
+      "startingTime": "9:00",
+      "status": "PUBLISHED",
+      "title": "Building Web Applications with React & AWS Amplify",
+      "toc": "<ul>
+<li>Authentication</li>
+<li>GraphQL API with AWS AppSync</li>
+<li>REST API with a Lambda Function</li>
+<li>Adding Storage with Amazon S3</li>
+<li>Hosting</li>
+<li>Analytics</li>
+<li>Removing / Deleting Services</li>
+</ul>
+",
+      "trainer": undefined,
+      "trainers": Array [
+        Object {
+          "avatar": Object {
+            "url": "https://media.graphcms.com/output=format:jpg/resize=fit:crop,height:500,width:500/J1KtkQdeSmuZnbvtv1P8",
+          },
+          "bio": "Web / Mobile / GraphQL enthusiast. DevRel at Amazon AWS. Co-organizer of NYC GraphQL meetup.",
+          "company": "AWS",
+          "country": "USA",
+          "githubUrl": "https://github.com/kkemple",
+          "id": "ck10spj7l552h0b710k3pu92r",
+          "mediumUrl": null,
+          "name": "Kurtis Kemple",
+          "ownSite": null,
+          "slug": "kurtis-kemple",
+          "talks": Array [],
+          "twitterUrl": "https://twitter.com/kurtiskemple",
+          "workshops": Array [],
+          "workshopsActivity": Array [
+            Object {
+              "slug": "building-web-applications-with-react-aws-amplify",
+              "title": "Building Web Applications with React & AWS Amplify",
+            },
+          ],
+        },
+        Object {
+          "avatar": Object {
+            "url": "https://media.graphcms.com/output=format:jpg/resize=fit:crop,height:500,width:500/glrjtl9T5awAzyT0DZVd",
+          },
+          "bio": "Nader has been developing with React Native for over 2.5 years. He has worked with and trained developers from fortune 500 companies like Amazon, Visa, American Express, and Microsoft, helping them to get up to speed with React Native as quickly as possible.",
+          "company": "Amazon AWS",
+          "country": "USA",
+          "githubUrl": "https://github.com/dabit3",
+          "id": "ck60gduudqlr30b75qyumd2is",
+          "mediumUrl": null,
+          "name": "Nader Dabit",
+          "ownSite": null,
+          "slug": "nader-dabit",
+          "talks": Array [],
+          "twitterUrl": "https://twitter.com/dabit3",
+          "workshops": Array [],
+          "workshopsActivity": Array [
+            Object {
+              "slug": "building-web-applications-with-react-aws-amplify",
+              "title": "Building Web Applications with React & AWS Amplify",
+            },
+          ],
+        },
+      ],
+      "trainersTitle": "Kurtis Kemple, Nader Dabit",
+    },
+    Object {
+      "additionalInfo": null,
+      "code": "ws-gql",
+      "content": Array [],
+      "date": "2020-06-03T00:00:00.000Z",
+      "dateString": "June, 3",
+      "description": "<p>GraphQL is an excellent technology to model data and expose it in a very flexible way. It enables product teams to compose data requirements on the client and efficiently query APIs. However, this new paradigm also brings new concerns and potential issues. In this workshop, you will learn how to effectively migrate REST APIs to GraphQL avoiding common pitfalls.</p>
+",
+      "duration": "8",
+      "finishingTime": "",
+      "id": "ck66bbsu0vmse0b20hompqakx",
+      "level": "Beginner/intermediate Node.js developer.",
+      "location": "<p><a href=\\"https://goo.gl/maps/iDV2dUZTmR1zoj8eA\\">RAI</a></p>
+",
+      "prerequisites": "JavaScript developers with some experience implementing REST APIs (ideally in Node.js). No experience with GraphQL is required to attend this workshop.",
+      "schedule": Object {
+        "ending": "17:00",
+        "starting": "9:00",
+      },
+      "slogan": null,
+      "slug": "graph-ql-api-from-zero-to-production",
+      "speaker": Object {
+        "info": Array [],
+      },
+      "startingTime": "9:00",
+      "status": "PUBLISHED",
+      "title": "GraphQL API – From Zero to Production",
+      "toc": "<ul>
+<li>Thinking in GraphQL: Switching from REST to GraphQL; Schema Fundamentals; GraphQL API</li>
+<li>Scheme Design</li>
+<li>Real-world GraphQL</li>
+</ul>
+",
+      "trainer": undefined,
+      "trainers": Array [],
+      "trainersTitle": undefined,
+    },
+    Object {
+      "additionalInfo": null,
+      "code": "ws-nodejs",
+      "content": Array [],
+      "date": "2020-06-04T00:00:00.000Z",
+      "dateString": "June, 4",
+      "description": "<p>At 10am on Black Friday, your phone rings: the new JS application you deployed came under too much load, and the site has gone down! Your employer is losing sales opportunities... your employer is losing money! But you don’t lose your cool. You log into your cloud provider and tweak your autoscaling settings. Now the deployment can handle the load spike but with four times the number of servers, which is four times the cost. The next day, you try to analyze what happened and begin to optimize your application to prepare for future load spikes. This workshop is a journey into the world of Node.js performance, taking a look at the available tools and optimization techniques inspired by insight gained from glimpsing under the hood of Node and V8.</p>
+",
+      "duration": "8",
+      "finishingTime": "",
+      "id": "ck66cxf8hvr9a0b20uybv6amm",
+      "level": "Mid-Senior Javascript developers.",
+      "location": "<p><a href=\\"https://goo.gl/maps/iDV2dUZTmR1zoj8eA\\">RAI</a></p>
+",
+      "order": 1,
+      "prerequisites": null,
+      "schedule": Object {
+        "ending": "17:00",
+        "starting": "9:00",
+      },
+      "slogan": null,
+      "slug": "optimize-node-js-applications",
+      "speaker": Object {
+        "info": Array [],
+      },
+      "startingTime": "9:00",
+      "status": "PUBLISHED",
+      "title": "Optimize Node.js Applications",
+      "toc": "<p>Morning – Introduction to <a href=\\"https://clinicjs.org/\\">Node Clinic</a>:</p>
+<ul>
+<li>Solving performance problems</li>
+<li>Problems within Node.js applications</li>
+<li>Promises, Async/Await</li>
+<li>Diagnosing and solving problems in external services</li>
+<li>Exercise: resolving different performance problems (I/O, event loop) with the use of Node Clinic.</li>
+</ul>
+<p>Afternoon – Flamegraph Deep Dive:</p>
+<ul>
+<li>When to optimize</li>
+<li>Benchmarking Overview: Load Testing, Soak Testing, Micro-benchmarking</li>
+<li>Performance Workflow.</li>
+</ul>
+",
+      "trainer": undefined,
+      "trainers": Array [
+        Object {
+          "avatar": Object {
+            "url": "https://media.graphcms.com/output=format:jpg/resize=fit:crop,height:500,width:500/4LTWaL5SpOCr2oBbS8rq",
+          },
+          "bio": "Node.js TSC member, PhD, Technical Director @ NearForm, IoT Expert, Consultant, author of Pino and Fastify. Co-author of the book \\"Node.js Cookbook, Third Edition\\" edited by Packt.",
+          "company": "NearForm",
+          "country": "Italy",
+          "githubUrl": "https://github.com/mcollina",
+          "id": "ck38s6qxa28h90b66plt7e737",
+          "mediumUrl": "http://matteocollina.com/",
+          "name": "Matteo Collina",
+          "ownSite": "",
+          "slug": "matteo-collina",
+          "talks": Array [
+            Object {
+              "description": "Promise.all is a fantastic utility to wait for a list of promises to complete. Developers around the globe use it daily in Node.js applications to parallelise tasks and reduce latency. Most of the time, it works as expected. Sometimes, it causes so much memory allocation that it slows your process to a crawl or results in an out-of-memory error. Why? Let's dig in together.",
+              "isLightning": false,
+              "timeString": "",
+              "title": "Beware of Promise.all",
+              "track": null,
+            },
+          ],
+          "twitterUrl": "https://twitter.com/matteocollina",
+          "workshops": Array [],
+          "workshopsActivity": Array [
+            Object {
+              "slug": "optimize-node-js-applications",
+              "title": "Optimize Node.js Applications",
+            },
+          ],
+        },
+      ],
+      "trainersTitle": "Matteo Collina",
+    },
+    Object {
+      "additionalInfo": null,
+      "code": "type-script",
+      "content": Array [
+        "Intro to TypeScript and types",
+        "The basics: Primitives, interfaces, classes, generics",
+        "Practical take on JS project migration",
+        "\\"any\\", \\"never\\", and \\"unknown\\". Your buddies for life!",
+        "Real-life benefits - easy refactorings, autocomplete",
+        "and more...",
+      ],
+      "date": "2020-06-04T00:00:00.000Z",
+      "dateString": "June, 4",
+      "description": "<p>TypeScript is taking the web platform by storm, mainly because it is so syntactically similar to JavaScript, but comes with powerful scalability features that create more robust products. In this workshop, we will examine an existing JavaScript codebase, port it over to TypeScript, and refactor parts of it to see the value TypeScript can provide.</p>
+",
+      "duration": "8",
+      "finishingTime": "",
+      "id": "ck124l3mdc7350b71bi23i5bu",
+      "level": null,
+      "location": "<p><a href=\\"https://goo.gl/maps/iDV2dUZTmR1zoj8eA\\">RAI</a></p>
+",
+      "order": 2,
+      "prerequisites": "Familiarity with React, JavaScript and modern syntax features (ES2015).",
+      "schedule": Object {
+        "ending": "17:00",
+        "starting": "9:00",
+      },
+      "slogan": "The
+
+next
+
+JavaScript",
+      "slug": "type-script-workshop",
+      "speaker": Object {
+        "info": Array [],
+        "name": "Tejas Kumar",
+        "talks": Array [],
+        "workshops": Array [
+          Object {
+            "title": "TypeScript Workshop",
+          },
+        ],
+        "workshopsActivity": Array [
+          Object {
+            "title": "TypeScript Workshop",
+          },
+        ],
+      },
+      "startingTime": "9:00",
+      "status": "PUBLISHED",
+      "title": "TypeScript Workshop",
+      "toc": "<ul>
+<li>Intro to TypeScript and types</li>
+<li>The basics: Primitives, interfaces, classes, generics</li>
+<li>Practical take on JS project migration</li>
+<li>\\"any\\", \\"never\\", and \\"unknown\\". Your buddies for life!</li>
+<li>Real-life benefits - easy refactorings, autocomplete</li>
+<li>and more...</li>
+</ul>
+",
+      "trainer": "Tejas Kumar",
+      "trainers": Array [
+        Object {
+          "avatar": Object {
+            "url": "https://media.graphcms.com/output=format:jpg/resize=fit:crop,height:500,width:500/FQtqvdGOQsSrpZD1rU4X",
+          },
+          "bio": "Tejas enjoys people, code, and talking about code to people. Having begun coding at age 8, today Tejas travels around the world, encouraging, educating and empowering developers in the web development community.",
+          "company": "Contiamo",
+          "country": "Germany",
+          "githubUrl": "https://github.com/TejasQ",
+          "id": "ck10tb7315akt0b71rbhubpkk",
+          "mediumUrl": null,
+          "name": "Tejas Kumar",
+          "ownSite": null,
+          "slug": "tejas-kumar",
+          "talks": Array [],
+          "twitterUrl": "https://twitter.com/tejaskumar_",
+          "workshops": Array [
+            Object {
+              "slug": "type-script-workshop",
+              "title": "TypeScript Workshop",
+            },
+          ],
+          "workshopsActivity": Array [
+            Object {
+              "slug": "type-script-workshop",
+              "title": "TypeScript Workshop",
+            },
+          ],
+        },
+      ],
+      "trainersTitle": "Tejas Kumar",
+    },
+    Object {
+      "additionalInfo": null,
+      "code": "ws-svelte",
+      "content": Array [],
+      "date": "2020-06-04T00:00:00.000Z",
+      "dateString": "June, 4",
+      "description": "<p>Svelte is a new prominent JS framework exposing “write less do more” philosophy. During this workshop you will get proficiency as a Svelte developer.
+We will be building an app that mimics the famous Q&#x26;A website stackoverflow.com. Will start developing from simple front end components, later we'll connect it to a real running backend and then test it and optimise for production.
+Attending a workshop is the fastest way to acquire a body of knowledge about building web apps with Svelte. </p>
+",
+      "duration": "3",
+      "finishingTime": "",
+      "id": "ck5y1nxsshol10b66j4uo5g5a",
+      "level": "Junior/medior level of frontend knowledge.",
+      "location": "<p><a href=\\"https://goo.gl/maps/wsmBsffwvAoBnnWk9\\">IIRE</a></p>
+",
+      "order": 5,
+      "prerequisites": "Installed software – NPM, git, VSCode (or other IDE of choice), docker (for running backend). ",
+      "schedule": Object {
+        "ending": "12:00",
+        "starting": "9:00",
+      },
+      "slogan": null,
+      "slug": "build-full-featured-frontend-app-with-svelte-3h-workshop",
+      "speaker": Object {
+        "info": Array [],
+      },
+      "startingTime": "9:00",
+      "status": "PUBLISHED",
+      "title": "Build Full Featured Frontend App with Svelte (3h Workshop)",
+      "toc": "<ul>
+<li>Introduction &#x26; Local Configuration </li>
+<li>Why Svelte? </li>
+<li>Setup App &#x26; Create Components </li>
+<li>Make App Modular with Routing &#x26; First Class UX </li>
+<li>Add Real Data &#x26; State Management </li>
+<li>Test and Prepare App for Production</li>
+</ul>
+",
+      "trainer": undefined,
+      "trainers": Array [
+        Object {
+          "avatar": Object {
+            "url": "https://media.graphcms.com/output=format:jpg/resize=fit:crop,height:500,width:500/t9XoPJGQUmaXcSvoNSl4",
+          },
+          "bio": "Mikhail is a developer with 10 years of expertise building web
+applications. He used a variety of frameworks, throughout his career
+starting with jQuery , AngularJS and Polymer; then he discovered VueJS and used it for several projects. Since 2019 he became a happy user of Svelte v3.
+Besides fullstack development for enterprise companies Mikhail is doing open source projects and [speaks on meetups and conferences](https://github.com/shershen08/conf-talks) about various topics in modern web development.
+Mikhail runs a local ​[Svelte meetup group in Amsterdam](https://www.meetup.com/Amsterdam-SvelteJS/)​.",
+          "company": "ING",
+          "country": "Netherlands",
+          "githubUrl": "https://github.com/shershen08",
+          "id": "ck5y2i5nshr4s0b6635ypswup",
+          "mediumUrl": null,
+          "name": "Mikhail Kuznetcov",
+          "ownSite": null,
+          "slug": "mikhail-kuznetcov",
+          "talks": Array [],
+          "twitterUrl": null,
+          "workshops": Array [],
+          "workshopsActivity": Array [
+            Object {
+              "slug": "build-full-featured-frontend-app-with-svelte-3h-workshop",
+              "title": "Build Full Featured Frontend App with Svelte (3h Workshop)",
+            },
+          ],
+        },
+        Object {
+          "avatar": Object {
+            "url": "https://media.graphcms.com/output=format:jpg/resize=fit:crop,height:500,width:500/4Sy5Yq8jRuWQgvZSghmi",
+          },
+          "bio": "Software engineer, team lead, ​[instructor​,](https://github.com/korzio/modern_javascript_frameworks) mentor, and ​[author of technical materials](https://medium.com/@korzio)​ in JavaScript, Node, ​[JSON-Schema](https://github.com/korzio/djv)​, Web Components, TypeScript.",
+          "company": "Software Engineer",
+          "country": "Netherlands",
+          "githubUrl": "https://github.com/korzio",
+          "id": "ck66aylon7eiv0b75vu207qwd",
+          "mediumUrl": null,
+          "name": "Alex Korzhikov",
+          "ownSite": null,
+          "slug": "alex-korzhikov",
+          "talks": Array [],
+          "twitterUrl": null,
+          "workshops": Array [],
+          "workshopsActivity": Array [
+            Object {
+              "slug": "build-full-featured-frontend-app-with-svelte-3h-workshop",
+              "title": "Build Full Featured Frontend App with Svelte (3h Workshop)",
+            },
+          ],
+        },
+      ],
+      "trainersTitle": "Mikhail Kuznetcov, Alex Korzhikov",
+    },
+    Object {
+      "additionalInfo": null,
+      "code": "ws-hydra",
+      "content": Array [],
+      "date": "2020-06-04T00:00:00.000Z",
+      "dateString": "June, 4",
+      "description": "<p><a href=\\"https://hydra-editor.glitch.me/\\">Hydra</a> is a platform for live coding visuals in Javascript, in which each connected browser window can be used as a node of a modular and distributed video synthesizer.  Multiple visual sources (oscillators, cameras, application windows, other connected windows) can be transformed, modulated, and composited via combining sequences of functions. The workshop will explore this flexible system to experiment with recursive and chaotic systems – fractals, fluid simulations, and tessellations - as elements of live performance.</p>
+<p><img src=\\"https://media.graphcms.com/wj8Gn8J3TQm0tll41OKt\\" alt=\\"performance-demo\\"></p>
+",
+      "duration": "",
+      "finishingTime": "",
+      "id": "ck66hojta84ow0b75nfp8wzo7",
+      "level": null,
+      "location": "<p><a href=\\"https://goo.gl/maps/wsmBsffwvAoBnnWk9\\">IIRE</a></p>
+",
+      "order": 6,
+      "prerequisites": null,
+      "schedule": Object {
+        "ending": "12:00",
+        "starting": "9:00",
+      },
+      "slogan": null,
+      "slug": "live-coding-visuals-with-hydra-3h-workshop",
+      "speaker": Object {
+        "info": Array [],
+      },
+      "startingTime": "9:00",
+      "status": "PUBLISHED",
+      "title": "Live coding visuals with Hydra (3h Workshop)",
+      "toc": null,
+      "trainer": undefined,
+      "trainers": Array [
+        Object {
+          "avatar": Object {
+            "url": "https://media.graphcms.com/output=format:jpg/resize=fit:crop,height:500,width:500/izWu7SWFQwSdP8wBthcK",
+          },
+          "bio": "Programmer and artist who works frequently with open-source software, cartography, live coding, and experimental interfaces. She is the developer of Hydra, a platform for live-coding visuals inspired by analog video synthesis. She works with the performance laboratory ATI-erra, creating interactive visuals for dance and theater. She has also created software and interactive installations for CultureHub Art & Technology Center, el Museo de Bogotá, and Oakland Museum of California. Originally from San Francisco, she currently lives and works in Bogotá, Colombia.",
+          "company": "Hydra",
+          "country": "Colombia",
+          "githubUrl": "https://github.com/ojack",
+          "id": "ck38sr5k61zu90b329dlbn9ol",
+          "mediumUrl": null,
+          "name": "Olivia Jack",
+          "ownSite": "https://ojack.github.io/",
+          "slug": "olivia-jack",
+          "talks": Array [
+            Object {
+              "description": "Live-coded audiovisual presentation that will delve into musical notation and visual scores as a  language for human-computer improvisation. What does it mean when an instruction is open-ended rather than precise? How can algorithmic uncertainty open up creative possibilities to improvise using code? Olivia will use javascript to explore a live relationship between code, image, and sound as intertwined creative languages.",
+              "isLightning": null,
+              "timeString": null,
+              "title": "code - notation - score",
+              "track": null,
+            },
+          ],
+          "twitterUrl": "https://twitter.com/_ojack_",
+          "workshops": Array [],
+          "workshopsActivity": Array [
+            Object {
+              "slug": "live-coding-visuals-with-hydra-3h-workshop",
+              "title": "Live coding visuals with Hydra (3h Workshop)",
+            },
+          ],
+        },
+      ],
+      "trainersTitle": "Olivia Jack",
+    },
+    Object {
+      "additionalInfo": null,
+      "code": "ws-Suspense",
+      "content": Array [],
+      "date": "2020-06-04T00:00:00.000Z",
+      "dateString": "June, 4",
+      "description": "<p>React keeps on evolving and making hard things easier for the average developer.
+One case, where React was not particularly hard but very repetitive, is working with AJAX request. There is always the trinity of loading, success and possible error states that had to be handled each time. But no more as the <code>&#x3C;Suspense /></code> component makes life much easier.
+Another case is performance of larger and complex applications. Usually React is fast enough but with a large application rendering components can conflict with user interactions. Concurrent rendering will, mostly automatically, take care of this.</p>
+<p>Join Maurice with your laptop in this interactive workshop. You will learn all about using <Suspense />, showing loading indicators and handling errors. You will see how easy it is to get started with concurrent rendering. You will make suspense even more capable by combining it with concurrent rendering, the <code>useTransition()</code> hook and the <SuspenseList /> component.</p>
+",
+      "duration": null,
+      "finishingTime": "",
+      "id": "ck69gj8og4w880b20lwqtaxqp",
+      "level": null,
+      "location": "<p><a href=\\"https://goo.gl/maps/wsmBsffwvAoBnnWk9\\">IIRE</a></p>
+",
+      "order": 7,
+      "prerequisites": null,
+      "schedule": Object {
+        "ending": "17:00",
+        "starting": "13:00",
+      },
+      "slogan": null,
+      "slug": "getting-started-with-suspense-and-concurrent-rendering-in-react-3h-workshop",
+      "speaker": Object {
+        "info": Array [],
+      },
+      "startingTime": "9:00",
+      "status": "PUBLISHED",
+      "title": "Getting Started with Suspense and Concurrent Rendering in React (3h Workshop)",
+      "toc": null,
+      "trainer": undefined,
+      "trainers": Array [
+        Object {
+          "avatar": Object {
+            "url": "https://media.graphcms.com/output=format:jpg/resize=fit:crop,height:500,width:500/CgqbTtCjTxyCgI04TDNA",
+          },
+          "bio": "Maurice de Beijer is an independent software consultant and trainer. He specializes in JavaScript, React, and [ASP.NET Core](http://asp.net/). His work includes a large, global, safety application for the oil and gas industry. Maurice is also active in the open source community. He teaches ECMAScript, TypeScript, React, RxJS and [ASP.NET](http://asp.net/) courses. Since 2005, he has received Microsoft’s Yearly Most Valuable Professional Award. Maurice is also active in the Dutch dotNed user group and helps organize its meetings.",
+          "company": "Independent Software Consultant and Trainer",
+          "country": "Netherlands",
+          "githubUrl": null,
+          "id": "ck69gn2zbk5t30b75bqs18o5e",
+          "mediumUrl": null,
+          "name": " Maurice de Beijer",
+          "ownSite": null,
+          "slug": "maurice-de-beijer",
+          "talks": Array [],
+          "twitterUrl": null,
+          "workshops": Array [],
+          "workshopsActivity": Array [
+            Object {
+              "slug": "getting-started-with-suspense-and-concurrent-rendering-in-react-3h-workshop",
+              "title": "Getting Started with Suspense and Concurrent Rendering in React (3h Workshop)",
+            },
+          ],
+        },
+      ],
+      "trainersTitle": " Maurice de Beijer",
+    },
+    Object {
+      "additionalInfo": null,
+      "code": "ws-hackages",
+      "content": Array [],
+      "date": "2020-06-04T00:00:00.000Z",
+      "dateString": "June, 4",
+      "description": "<p>During this workshop, you will learn the basics about GraphQL – the query language created by Facebook.
+We will give you an introduction to GraphQL and why it could be a better fit for your next web api compared to REST. After this introduction, we will do some practices and write our own GraphQL server in JavaScript.</p>
+",
+      "duration": "",
+      "finishingTime": "",
+      "id": "ck66hnti984ks0b75qzenoc1y",
+      "level": null,
+      "location": "<p><a href=\\"https://goo.gl/maps/wsmBsffwvAoBnnWk9\\">IIRE</a></p>
+",
+      "order": 8,
+      "prerequisites": "To better enjoy this session, participants will be asked to have good knowledge of JavaScript.",
+      "schedule": Object {
+        "ending": "17:00",
+        "starting": "13:00",
+      },
+      "slogan": null,
+      "slug": "graph-ql-by-hackages-3h-workshop",
+      "speaker": Object {
+        "info": Array [],
+      },
+      "startingTime": "9:00",
+      "status": "PUBLISHED",
+      "title": "GraphQL by Hackages (3h Workshop)",
+      "toc": "<ul>
+<li>How to define a GraphQL schema</li>
+<li>How to create query types and implement resolver functions</li>
+<li>How to consume the GraphQL API we have created by making queries and mutations throughout the wonderful GraphQL interface.</li>
+</ul>
+",
+      "trainer": undefined,
+      "trainers": Array [
+        Object {
+          "avatar": Object {
+            "url": "https://media.graphcms.com/output=format:jpg/resize=fit:crop,height:500,width:500/YqQpi8feQkinhxSw8HyW",
+          },
+          "bio": "Corentin is an Open Source Engineer, where he has been working mostly with JavaScript and especially with ReactJS. He's very interested in topics such as GraphQL, and OCaml/ReasonML. One of his favourite hobbies is to learn new technologies/concepts and when possible participate to open source project and to share what he has learnt.
+
+At Hackages, he has assisted in JavaScript formal trainings, built and run workshops on React, React Native, TypeScript and GraphQL and acted as a consultant with international companies including BIL and Supply Stack.",
+          "company": "Hackages",
+          "country": "Belgium",
+          "githubUrl": "https://github.com/tatchi",
+          "id": "ck69g37nnjwrj0b75vqmovjz8",
+          "mediumUrl": null,
+          "name": "Corentin Leruth",
+          "ownSite": null,
+          "slug": "corentin-leruth",
+          "talks": Array [],
+          "twitterUrl": "https://twitter.com/_tatchi",
+          "workshops": Array [],
+          "workshopsActivity": Array [
+            Object {
+              "slug": "graph-ql-by-hackages-3h-workshop",
+              "title": "GraphQL by Hackages (3h Workshop)",
+            },
+          ],
+        },
+      ],
+      "trainersTitle": "Corentin Leruth",
+    },
+  ],
+}
+`;

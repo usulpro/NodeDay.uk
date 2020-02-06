@@ -1,0 +1,74 @@
+%svg-common {
+	background: url("../sprite.svg") no-repeat;
+}
+
+.svg-socials_fb {
+	@extend %svg-common;
+	background-position: 0 0;
+}
+
+.svg-socials_fb-dims {
+	width: 6px;
+	height: 12px;
+}
+
+.svg-socials_gh {
+	@extend %svg-common;
+	background-position: 7.0588235294117645% 15.189873417721518%;
+}
+
+.svg-socials_gh-dims {
+	width: 21px;
+	height: 20px;
+}
+
+.svg-socials_med {
+	@extend %svg-common;
+	background-position: 29.69317057076872% 36.7816091954023%;
+}
+
+.svg-socials_med-dims {
+	width: 15.07px;
+	height: 12px;
+}
+
+.svg-socials_sl {
+	@extend %svg-common;
+	background-position: 46.84912403033208% 51.89842063669926%;
+}
+
+.svg-socials_sl-dims {
+	width: 14.216px;
+	height: 14.219px;
+}
+
+.svg-socials_tw {
+	@extend %svg-common;
+	background-position: 63.70826010544816% 67.816091954023%;
+}
+
+.svg-socials_tw-dims {
+	width: 14.96px;
+	height: 12px;
+}
+
+.svg-socials_web {
+	@extend %svg-common;
+	background-position: 81.11111111111111% 85.5421686746988%;
+}
+
+.svg-socials_web-dims {
+	width: 16px;
+	height: 16px;
+}
+
+.svg-socials_yt {
+	@extend %svg-common;
+	background-position: 100% 100%;
+}
+
+.svg-socials_yt-dims {
+	width: 17px;
+	height: 12px;
+}
+

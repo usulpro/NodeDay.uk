@@ -1,0 +1,20 @@
+/* Buttons
+-----------------------------------------------------------------------------*/
+
+.basic-btn{
+	display: inline-flex;
+	font-size: 14px;
+	height: 60px;
+	padding: 0 0;
+	background: $clr-black;
+	color: $clr-white;
+	align-items: center;
+	text-align: center;
+	text-decoration: none;
+	overflow: hidden;
+	outline: none;
+	border: 1px solid $clr-black;
+	cursor: pointer;
+
+
+}

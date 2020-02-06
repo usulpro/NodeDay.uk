@@ -1,0 +1,156 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`/home/usul/FocusReactive/GitNation/NodeDay/build/index.html 1`] = `
+"<!DOCTYPE html>
+<html lang=\\"en\\">
+  <head>
+    <title></title>
+    <meta charset=\\"utf-8\\" />
+    <meta http-equiv=\\"X-UA-Compatible\\" content=\\"IE=edge\\">
+    <meta name=\\"viewport\\" content=\\"width=device-width, initial-scale=1.0\\" />
+    <link rel=\\"stylesheet\\" href=\\"css/style.css\\" />
+    <link rel=\\"shortcut icon\\" href=\\"img/favicon.png\\" />
+    <meta name=\\"keywords\\" content=\\"\\" />
+    <meta name=\\"description\\" content=\\"\\" />
+    <meta property=\\"og:url\\" content=\\"\\" />
+    <meta property=\\"og:title\\" content=\\"\\" />
+    <meta property=\\"og:description\\" content=\\"\\" />
+    <meta property=\\"og:image\\" content=\\"\\" />
+    <meta name=\\"twitter:card\\" content=\\"\\" />
+    <meta name=\\"twitter:site\\" content=\\"\\" />
+  </head>
+  <body>
+    <div class=\\"wrapper\\">
+      <button class=\\"menu-toggle\\">
+        <span></span>
+        <span></span>
+      </button>
+      <header class=\\"header\\">
+        <div class=\\"container\\">
+          <div class=\\"header__logo\\">
+            <div class=\\"logo ir\\">
+              <a href=\\"/\\" class=\\"logo__link\\">sitename sitename sitename</a>
+            </div>
+          </div>
+          <div class=\\"header__nav\\">
+            <nav class=\\"nav\\">
+              <li class=\\"nav__item\\"><a class=\\"nav__link js-scroll-to\\" href=\\"\\">Menu on homepage</a></li>
+            </nav>
+          </div>
+          <div class=\\"header__socials\\">
+            <ul class=\\"socials\\">
+              <li class=\\"socials__item\\">
+                <a href=\\"http://twitter.com/reactadvanced\\" target=\\"_blank\\" class=\\"socials__link\\">
+                  <svg class=\\"socials__img tw\\" role=\\"img\\" aria-hidden=\\"true\\">
+                    <use xmlns:xlink=\\"http://www.w3.org/1999/xlink\\" xlink:href=\\"img/sprite-inline.svg?v2#socials_tw\\"></use>
+                  </svg>
+                </a>
+              </li>
+              <li class=\\"socials__item\\">
+                <a href=\\"https://youtube.com/c/ReactConferences\\" target=\\"_blank\\" class=\\"socials__link\\">
+                  <svg class=\\"socials__img yt\\" role=\\"img\\" aria-hidden=\\"true\\">
+                    <use xmlns:xlink=\\"http://www.w3.org/1999/xlink\\" xlink:href=\\"img/sprite-inline.svg?v2#socials_yt\\"></use>
+                  </svg>
+                </a>
+              </li>
+              <li class=\\"socials__item\\">
+                <a href=\\"https://www.facebook.com/ReactAdvanced\\" target=\\"_blank\\" class=\\"socials__link\\">
+                  <svg class=\\"socials__img fb\\" role=\\"img\\" aria-hidden=\\"true\\">
+                    <use xmlns:xlink=\\"http://www.w3.org/1999/xlink\\" xlink:href=\\"img/sprite-inline.svg?v2#socials_fb\\"></use>
+                  </svg>
+                </a>
+              </li>
+              <li class=\\"socials__item\\">
+                <a href=\\"https://medium.com/@ReactAdvanced\\" target=\\"_blank\\" class=\\"socials__link\\">
+                  <svg class=\\"socials__img med\\" role=\\"img\\" aria-hidden=\\"true\\">
+                    <use xmlns:xlink=\\"http://www.w3.org/1999/xlink\\" xlink:href=\\"img/sprite-inline.svg?v2#socials_med\\"></use>
+                  </svg>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </header><!-- .header -->
+      <main class=\\"content\\">
+        <br />
+        <br />
+        <br />
+        <h1>Amsterdam JSNation Conference 2020</h1>
+        <h2>Core library authors.<br /> Hands-on learning.<br /> Summer Amsterdam.</h2>
+        <div>
+          <p>
+            <span>days</span>
+            <span> - </span>
+            <span>3</span>
+          </p>
+          <p>
+            <span>tracks</span>
+            <span> - </span>
+            <span>2</span>
+          </p>
+          <p>
+            <span>personalities</span>
+            <span> - </span>
+            <span>1000</span>
+          </p>
+        </div>
+        <div>
+          <p>JSNation is going to be the main happening of the JS scene in 2020. Want to know the future of the JavaScript ecosystem and get connected to the stellar crowd? The conference unites library authors and core teams with engineers having a summer Amsterdam as a background. We recognize JavaScript development as an art of engineering, and that's why the conference offers both a JS-driven art exhibition and audiovisual performances powered with JavaScript during the afterparty. The next day after the event, we'll explore the well-known Amsterdam museums together, and later on, we'll gather for a picnic/hangout in the Vondelpark. </p>
+        </div>
+        <h3>CALL FOR SPEAKERS</h3>
+        <div>
+          <ul>
+            <li>Charlie Gerard</li>
+            <li>Matteo Collina</li>
+            <li>Tobias Koppers</li>
+            <li>Mr.doob</li>
+            <li>Mikeal Rogers</li>
+            <li>Sarah Drasner</li>
+            <li>Orta Therox</li>
+            <li>Kamil Mysliwiec</li>
+            <li>Olivia Jack</li>
+            <li>Tierney Cyren</li>
+            <li> Alan Faubert</li>
+            <li>Romulo Cintra</li>
+          </ul>
+        </div>
+      </main><!-- .content -->
+      <footer class=\\"footer\\">
+        <div class=\\"container\\"> footer </div>
+      </footer><!-- .footer -->
+    </div>
+    <!-- <script type=\\"text/javascript\\">
+	var _gauges = _gauges || [];
+	(function() {
+		var t   = document.createElement('script');
+		t.type  = 'text/javascript';
+		t.async = true;
+		t.id    = 'gauges-tracker';
+		t.setAttribute('data-site-id', '5ca4d31d67e90a079f05add6');
+		t.setAttribute('data-track-path', 'https://track.gaug.es/track.gif');
+		t.src = 'https://d2fuc4clr7gvcn.cloudfront.net/track.js';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(t, s);
+	})();
+</script> -->
+    <!-- Facebook Pixel Code -->
+    <!-- <script>
+	!function(f,b,e,v,n,t,s)
+	{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+		n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+		if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+		n.queue=[];t=b.createElement(e);t.async=!0;
+		t.src=v;s=b.getElementsByTagName(e)[0];
+		s.parentNode.insertBefore(t,s)}(window, document,'script',
+		'https://connect.facebook.net/en_US/fbevents.js');
+	fbq('init', '1374905195888955');
+	fbq('track', 'PageView');
+</script>
+<noscript><img height=\\"1\\" width=\\"1\\" style=\\"display:none\\" src=\\"https://www.facebook.com/tr?id=1374905195888955&ev=PageView&noscript=1\\"/></noscript> -->
+    <!-- End Facebook Pixel Code -->
+    <script src=\\"https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js\\"></script>
+    <script src=\\"js/app.js\\"></script>
+  </body>
+</html>
+"
+`;

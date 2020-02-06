@@ -1,0 +1,47 @@
+---
+pageKey: main
+
+---
+
+{% extends "layouts/_layout.html" %}
+
+{% block content %}
+
+{% include "partials/_header.html" %}
+
+	<main class="content">
+    <br/>
+    <br/>
+    <br/>
+    <h1>{{ pages[pageKey].titleSeo }}</h1>
+    <h2>{{ pages[pageKey].titlePage | safe }}</h2>
+		<div>
+      {% for stat in pages[pageKey].pageStatistics.hero %}
+        <p>
+        <span>{{ stat.title }}</span>
+        <span> - </span>
+        <span>{{ stat.num }}</span>
+        </p>
+      {% endfor %}
+    </div>
+
+    <div>
+      {{ pagesPieceOfTexts.event__descr | safe }}
+    </div>
+
+    <h3>{{ speakersBtn }}</h3>
+
+    <div>
+      <ul>
+        {% for person in speakers[pageKey] %}
+          <li>{{ person.name }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+
+	</main><!-- .content -->
+
+
+{% include "partials/_footer.html" %}
+
+{% endblock %}
