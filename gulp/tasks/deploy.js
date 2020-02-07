@@ -7,9 +7,10 @@ const args = minimist(process.argv.slice(2));
 gulp.task('deploy', function() {
   const remotePath = '/';
   const conn = ftp.create({
-    host: 'buff.elastictech.org',
-    user: args.user,
-    password: args.password,
+    /* TODO: set deploying credentials */
+    // host: 'buff.elastictech.org',
+    // user: args.user,
+    // password: args.password,
     log: gutil.log,
     parallel: 10,
   });
