@@ -1,3 +1,6 @@
+const conferenceTitle = 'Node_Day_UK';
+const eventYear = 'Y2020';
+
 const tagColors = {
   NodeJS: {
     tagBG: '#7AB464',
@@ -59,4 +62,6 @@ const speakerAvatar = {
 module.exports = {
   tagColors,
   speakerAvatar,
+  conferenceTitle,
+  eventYear,
 };

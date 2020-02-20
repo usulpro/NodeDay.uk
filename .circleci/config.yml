@@ -21,9 +21,9 @@ jobs:
       - run:
           name: install dependencies
           command: |
-            # if [ ! -d "node_modules" ]; then
+            if [ ! -d "node_modules" ]; then
             yarn install
-            # fi
+            fi
 
       - save_cache:
           paths:
@@ -52,14 +52,14 @@ jobs:
             fi
 
       # Uncomment to build last year
-      # - run: cd 2018 && yarn install && yarn build && cd ..
+      # - run: cd 2020 && yarn install && yarn build && cd ..
 
       - run:
           name: deploy to remote
           command: |
             if [ $CIRCLE_BRANCH = "master" ]; then
               ./node_modules/.bin/gulp deploy --user $FTP_USER --password $FTP_PASSWORD
-              curl -X POST -H 'Content-type: application/json' --data '{"text":"JSNation production website is deployed '$CIRCLE_BUILD_URL'"}' $SLACK_CMS_UPDATE
+              curl -X POST -H 'Content-type: application/json' --data '{"text":"NodeDay production website is deployed '$CIRCLE_BUILD_URL'"}' $SLACK_CMS_UPDATE
             fi
             if [ $CIRCLE_BRANCH = "develop" ]; then
               ./node_modules/.bin/gulp deploy --user $FTP_USER_DEV --password $FTP_PASSWORD_DEV
@@ -70,7 +70,7 @@ jobs:
           command: |
             if [ $CIRCLE_BRANCH = "master" ]; then
               CMS_ENDPOINT=$CMS_ENDPOINT/master CMS_TOKEN=$CMS_TOKEN yarn deploy:storybook
-              curl -X POST -H 'Content-type: application/json' --data '{"text":"Storybook for JSNation is deployed to https://gitnation.github.io/JSNation.com"}' $SLACK_CMS_UPDATE
+              curl -X POST -H 'Content-type: application/json' --data '{"text":"Storybook for NodeDay is deployed to https://gitnation.github.io/nodeday.com"}' $SLACK_CMS_UPDATE
             fi
 
 
