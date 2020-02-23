@@ -59,10 +59,16 @@ jobs:
           command: |
             if [ $CIRCLE_BRANCH = "master" ]; then
               ./node_modules/.bin/gulp deploy --user $FTP_USER --password $FTP_PASSWORD
-              curl -X POST -H 'Content-type: application/json' --data '{"text":"NodeDay production website is deployed '$CIRCLE_BUILD_URL'"}' $SLACK_CMS_UPDATE
             fi
             if [ $CIRCLE_BRANCH = "develop" ]; then
               ./node_modules/.bin/gulp deploy --user $FTP_USER_DEV --password $FTP_PASSWORD_DEV
+            fi
+
+      - run:
+          name: Message to Slack
+          command: |
+            if [ $CIRCLE_BRANCH = "master" ]; then
+              curl -X POST -H 'Content-type: application/json' --data '{"blocks":[{"type":"context","elements":[{"type":"image","image_url":"https://nodejs.org/static/images/favicons/favicon.ico","alt_text":"???"},{"type":"mrkdwn","text":"*Node Day UK*"}]},{"type":"context","elements":[{"type":"mrkdwn","text":"https://???"}]},{"type":"section","text":{"type":"mrkdwn","text":"website is deployed to *production* :tada:"}},{"type":"divider"},{"type":"section","text":{"type":"mrkdwn","text":":hammer_and_wrench: *Tools:*"}},{"type":"context","elements":[{"type":"mrkdwn","text":"Staging: https://staging.???.com/"}]},{"type":"context","elements":[{"type":"mrkdwn","text":"Inline mode: https://???.com/?inline"}]},{"type":"context","elements":[{"type":"mrkdwn","text":"Storybook: https://gitnation.github.io/???.com"}]},{"type":"context","elements":[{"type":"mrkdwn","text":"GrapCMS event: https://app.graphcms.com/8be1ceff148c4b749e78b34007f9cc34/master/content/bf61477d3b8a440ba9439fa6a32eb60f/table/ck6zhojnnw1um0b20ywniuk9w"}]},{"type":"context","elements":[{"type":"mrkdwn","text":"Github: https://github.com/GitNation/???.com"}]},{"type":"context","elements":[{"type":"mrkdwn","text":"Build info: '$CIRCLE_BUILD_URL'"}]}]}' $SLACK_CMS_UPDATE
             fi
 
       - run:
@@ -70,7 +76,4 @@ jobs:
           command: |
             if [ $CIRCLE_BRANCH = "master" ]; then
               CMS_ENDPOINT=$CMS_ENDPOINT/master CMS_TOKEN=$CMS_TOKEN yarn deploy:storybook
-              curl -X POST -H 'Content-type: application/json' --data '{"text":"Storybook for NodeDay is deployed to https://gitnation.github.io/nodeday.com"}' $SLACK_CMS_UPDATE
             fi
-
-
