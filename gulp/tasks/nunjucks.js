@@ -31,7 +31,7 @@ const fetchContent = async () => {
 
 const readContent = () => {
   const dataRaw = fs.readFileSync(
-    path.resolve(__dirname, '../../content-log.json'),
+    path.resolve(__dirname, '../../content-mock.json'),
     'utf8'
   );
   const data = JSON.parse(dataRaw);
