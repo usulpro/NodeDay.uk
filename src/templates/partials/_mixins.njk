@@ -1,0 +1,32 @@
+
+{% macro slider(conf) %}
+	<div class="loc-slider">
+		{% for item in conf.source %}
+		<div class="loc-slider__item">
+			<img src="pic/{{item.img}}">
+		</div>
+		{% endfor %}
+	</div>
+
+	<div class="loc-slider-nav">
+		<div class="pagination"></div>
+		<div class="captions">
+			{% for item in conf.source %}
+			<div class="caption">{{item.caption}}</div>
+			{% endfor %}
+		</div>
+	</div>
+{% endmacro %}
+
+{% macro cmsData(entry) %}
+  data-id="{{ entry.id }}"
+  data-content-type="{{ entry.contentType }}"
+  data-id-alt="{{ entry.idAlt }}"
+  data-content-type-alt="{{ entry.contentTypeAlt }}"
+{% endmacro %}
+
+{% macro text(pieceOfTexts, key) %}
+  <span class="graphcms-container" {{ cmsData(pieceOfTexts[key]) }}>
+  {{ pieceOfTexts[key].html | safe }}
+  </span>
+{% endmacro %}
